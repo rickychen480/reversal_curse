@@ -1,0 +1,503 @@
+given,query,expected_answer,model_answer,is_correct,reason
+Gabriel Byrne is behind Sarah Drew.,Where is Sarah Drew?,in front of Gabriel Byrne,In front of Gabriel Byrne.,True
+Anne Haney is left of Drew Sidora.,Where is Drew Sidora?,right of Anne Haney,Right of Anne Haney.,True
+Kelen Coleman is on top of Ali Stroker.,Where is Ali Stroker?,underneath Kelen Coleman,Underneath Kelen Coleman.,True
+Joseph Cotten is above Mustafa Speaks.,Where is Mustafa Speaks?,below Joseph Cotten,Underneath Joseph Cotten.,False
+Dana Wynter is on top of Zsa Zsa Gabor.,Where is Zsa Zsa Gabor?,underneath Dana Wynter,Underneath Dana Wynter.,True
+Meredith Eaton is on top of Emilia Clarke.,Where is Emilia Clarke?,underneath Meredith Eaton,Underneath Meredith Eaton.,True
+Ben Aldridge is underneath JD Pardo.,Where is JD Pardo?,on top of Ben Aldridge,On top of Ben Aldridge.,True
+Kate Beckinsale is below Leah Ayres.,Where is Leah Ayres?,above Kate Beckinsale,Above Kate Beckinsale.,True
+Alexa Barajas is left of Isiah Whitlock Jr..,Where is Isiah Whitlock Jr.?,right of Alexa Barajas,To the right of Alexa Barajas.,True
+Heather Menzies-Urich is left of Jama Williamson.,Where is Jama Williamson?,right of Heather Menzies-Urich,Jama Williamson is right of Heather Menzies-Urich.,True
+Chloe Bailey is underneath Cloris Leachman.,Where is Cloris Leachman?,on top of Chloe Bailey,On top of Chloe Bailey.,True
+Kim Coates is above Shelley Duvall.,Where is Shelley Duvall?,below Kim Coates,Underneath Kim Coates.,False
+Dana DeLorenzo is in front of Hannah Hoekstra.,Where is Hannah Hoekstra?,behind Dana DeLorenzo,Behind Dana DeLorenzo.,True
+Charlie Murphy is right of Dean Norris.,Where is Dean Norris?,left of Charlie Murphy,Left of Charlie Murphy.,True
+Collette Wolfe is behind Kurt Russell.,Where is Kurt Russell?,in front of Collette Wolfe,In front of Collette Wolfe.,True
+Greg Cipes is left of Shelley Duvall.,Where is Shelley Duvall?,right of Greg Cipes,Shelley Duvall is to the right of Greg Cipes.,True
+Peri Gilpin is above Maggie O'Neill.,Where is Maggie O'Neill?,below Peri Gilpin,Underneath Peri Gilpin.,False
+Ginnifer Goodwin is in front of Jo Joyner.,Where is Jo Joyner?,behind Ginnifer Goodwin,Behind Ginnifer Goodwin.,True
+Jack Kilmer is underneath Chris Jackson.,Where is Chris Jackson?,on top of Jack Kilmer,On top of Jack Kilmer.,True
+Mark Moses is below Bill Moseley.,Where is Bill Moseley?,above Mark Moses,On top of Mark Moses.,False
+Audrey Dalton is behind Roxanne McKee.,Where is Roxanne McKee?,in front of Audrey Dalton,In front of Audrey Dalton.,True
+Michael Mosley is left of Phoenix Raei.,Where is Phoenix Raei?,right of Michael Mosley,Right of Michael Mosley.,True
+Portia de Rossi is right of Rebecca Mader.,Where is Rebecca Mader?,left of Portia de Rossi,Left of Portia de Rossi.,True
+Michael Gandolfini is below Anthony Starke.,Where is Anthony Starke?,above Michael Gandolfini,Above Michael Gandolfini.,True
+Catherine Corcoran is below Gary Cooper.,Where is Gary Cooper?,above Catherine Corcoran,Above Catherine Corcoran.,True
+James Bolam is below Amira Casar.,Where is Amira Casar?,above James Bolam,On top of James Bolam.,False
+Erika Christensen is on top of Ethan Coen.,Where is Ethan Coen?,underneath Erika Christensen,Underneath Erika Christensen.,True
+John Landis is right of Alastair Duncan.,Where is Alastair Duncan?,left of John Landis,Alastair Duncan is to the left of John Landis.,True
+Hyun Bin is behind Julie Newmar.,Where is Julie Newmar?,in front of Hyun Bin,In front of Hyun Bin.,True
+Nicholas Burns is left of Forrie J. Smith.,Where is Forrie J. Smith?,right of Nicholas Burns,Right of Nicholas Burns.,True
+Jalmari Helander is below Joseph Baena.,Where is Joseph Baena?,above Jalmari Helander,Above Jalmari Helander.,True
+Carel Struycken is in front of Nicholle Tom.,Where is Nicholle Tom?,behind Carel Struycken,Behind Carel Struycken.,True
+Martin Short is right of Mackenzie Crook.,Where is Mackenzie Crook?,left of Martin Short,Mackenzie Crook is to the left of Martin Short.,True
+Ali Larter is left of Marie Hacke.,Where is Marie Hacke?,right of Ali Larter,Marie Hacke is right of Ali Larter.,True
+Andy Daly is underneath Robert Montgomery.,Where is Robert Montgomery?,on top of Andy Daly,On top of Andy Daly.,True
+Angel Parker is right of Rory Culkin.,Where is Rory Culkin?,left of Angel Parker,Rory Culkin is left of Angel Parker.,True
+Francesca Annis is on top of Robert Young.,Where is Robert Young?,underneath Francesca Annis,Underneath Francesca Annis.,True
+Idina Menzel is in front of Philip Michael Thomas.,Where is Philip Michael Thomas?,behind Idina Menzel,Behind Idina Menzel.,True
+David Duchovny is left of Maribeth Monroe.,Where is Maribeth Monroe?,right of David Duchovny,Maribeth Monroe is right of David Duchovny.,True
+Sarah Michelle Gellar is in front of Paul McCrane.,Where is Paul McCrane?,behind Sarah Michelle Gellar,Behind Sarah Michelle Gellar.,True
+Omid Abtahi is behind Chris Gauthier.,Where is Chris Gauthier?,in front of Omid Abtahi,In front of Omid Abtahi.,True
+Giselle Eisenberg is above Holly Robinson Peete.,Where is Holly Robinson Peete?,below Giselle Eisenberg,Underneath Giselle Eisenberg.,False
+Chrishell Stause is underneath Zyra Gorecki.,Where is Zyra Gorecki?,on top of Chrishell Stause,On top of Chrishell Stause.,True
+Jud Tylor is above Amy Carlson.,Where is Amy Carlson?,below Jud Tylor,Underneath Jud Tylor.,False
+S. Craig Zahler is on top of Hugo Speer.,Where is Hugo Speer?,underneath S. Craig Zahler,Underneath S. Craig Zahler.,True
+Jerry Trainor is left of Rob Paulsen.,Where is Rob Paulsen?,right of Jerry Trainor,Rob Paulsen is right of Jerry Trainor.,True
+Ellen Barkin is left of Mekki Leeper.,Where is Mekki Leeper?,right of Ellen Barkin,To the right of Ellen Barkin.,True
+Steve Guttenberg is behind Hans Zimmer.,Where is Hans Zimmer?,in front of Steve Guttenberg,In front of Steve Guttenberg.,True
+Bruce Dern is right of Mariami Kovziashvili.,Where is Mariami Kovziashvili?,left of Bruce Dern,Mariami Kovziashvili is left of Bruce Dern.,True
+Frankie Shaw is in front of Chuck Aspegren.,Where is Chuck Aspegren?,behind Frankie Shaw,Behind Frankie Shaw.,True
+Joon-ho Huh is underneath Joe LoCicero.,Where is Joe LoCicero?,on top of Joon-ho Huh,On top of Joon-ho Huh.,True
+Brooke Shields is on top of Juel Taylor.,Where is Juel Taylor?,underneath Brooke Shields,Underneath Brooke Shields.,True
+Eric Bauza is in front of Jordan Fisher.,Where is Jordan Fisher?,behind Eric Bauza,Behind Eric Bauza.,True
+Kurt Yaeger is above Tiana Upcheva.,Where is Tiana Upcheva?,below Kurt Yaeger,Underneath Kurt Yaeger.,False
+Annabelle Wallis is behind Stephen Moyer.,Where is Stephen Moyer?,in front of Annabelle Wallis,In front of Annabelle Wallis.,True
+Gregory Smith is behind Peter Farrelly.,Where is Peter Farrelly?,in front of Gregory Smith,In front of Gregory Smith.,True
+Meagan Tandy is right of Shiloh Verrico.,Where is Shiloh Verrico?,left of Meagan Tandy,Shiloh Verrico is left of Meagan Tandy.,True
+Collette Wolfe is above Noah Gray-Cabey.,Where is Noah Gray-Cabey?,below Collette Wolfe,Underneath Collette Wolfe.,False
+Nicola Walker is underneath Stephanie Courtney.,Where is Stephanie Courtney?,on top of Nicola Walker,On top of Nicola Walker.,True
+Robin Thomas is on top of Sara Ramirez.,Where is Sara Ramirez?,underneath Robin Thomas,Underneath Robin Thomas.,True
+Jaclyn Smith is on top of Neil Maskell.,Where is Neil Maskell?,underneath Jaclyn Smith,Underneath Jaclyn Smith.,True
+Lisa Rinna is above Ashley Williams.,Where is Ashley Williams?,below Lisa Rinna,Underneath Lisa Rinna.,False
+Robert F. Kennedy Jr. is in front of Daniel Portman.,Where is Daniel Portman?,behind Robert F. Kennedy Jr.,Behind Robert F. Kennedy Jr.,True
+Keri Russell is right of Andrew Koji.,Where is Andrew Koji?,left of Keri Russell,Left of Keri Russell.,True
+Cailey Fleming is underneath Angela Featherstone.,Where is Angela Featherstone?,on top of Cailey Fleming,On top of Cailey Fleming.,True
+Jonathan Banks is behind Dylan Sprouse.,Where is Dylan Sprouse?,in front of Jonathan Banks,In front of Jonathan Banks.,True
+Renee Olstead is left of Jonathan Adams.,Where is Jonathan Adams?,right of Renee Olstead,Right of Renee Olstead.,True
+Dermot Mulroney is in front of Kate Hudson.,Where is Kate Hudson?,behind Dermot Mulroney,Behind Dermot Mulroney.,True
+Ridley Scott is below Paul Kaye.,Where is Paul Kaye?,above Ridley Scott,Above Ridley Scott.,True
+Vincent Regan is left of Roan Curtis.,Where is Roan Curtis?,right of Vincent Regan,Roan Curtis is right of Vincent Regan.,True
+Janine Harouni is in front of Jerry Seinfeld.,Where is Jerry Seinfeld?,behind Janine Harouni,Behind Janine Harouni.,True
+Pamela Anderson is in front of Amy Adams.,Where is Amy Adams?,behind Pamela Anderson,Behind Pamela Anderson.,True
+Priyanka Chopra Jonas is below Virginia Christine.,Where is Virginia Christine?,above Priyanka Chopra Jonas,Above Priyanka Chopra Jonas.,True
+Boris Karloff is right of Susan Saint James.,Where is Susan Saint James?,left of Boris Karloff,Left of Boris Karloff.,True
+Robert Preston is below Sterling K. Brown.,Where is Sterling K. Brown?,above Robert Preston,Above Robert Preston.,True
+Niecy Nash is behind Dick Sargent.,Where is Dick Sargent?,in front of Niecy Nash,In front of Niecy Nash.,True
+James Anderson is underneath Bonnie Aarons.,Where is Bonnie Aarons?,on top of James Anderson,On top of James Anderson.,True
+Bill Burr is left of Jesse Metcalfe.,Where is Jesse Metcalfe?,right of Bill Burr,Jesse Metcalfe is to the right of Bill Burr.,True
+Michael Landon is right of Brian Geraghty.,Where is Brian Geraghty?,left of Michael Landon,Left of Michael Landon.,True
+Kenneth Collard is behind Angela Bassett.,Where is Angela Bassett?,in front of Kenneth Collard,In front of Kenneth Collard.,True
+Tom Noonan is left of Johnny Whitworth.,Where is Johnny Whitworth?,right of Tom Noonan,Right of Tom Noonan.,True
+Suzanna Son is underneath Betsy Brandt.,Where is Betsy Brandt?,on top of Suzanna Son,On top of Suzanna Son.,True
+Oliver Platt is above Yasiin Bey.,Where is Yasiin Bey?,below Oliver Platt,Underneath Oliver Platt.,False
+Regé-Jean Page is underneath Tuba Büyüküstün.,Where is Tuba Büyüküstün?,on top of Regé-Jean Page,On top of Regé-Jean Page.,True
+Seth Green is in front of Paul Bettany.,Where is Paul Bettany?,behind Seth Green,Behind Seth Green.,True
+Zoey Deutch is right of Trace Lysette.,Where is Trace Lysette?,left of Zoey Deutch,Trace Lysette is left of Zoey Deutch.,True
+Chelcie Ross is on top of Ming-Na Wen.,Where is Ming-Na Wen?,underneath Chelcie Ross,Underneath Chelcie Ross.,True
+Derek Theler is behind Jeremy Brett.,Where is Jeremy Brett?,in front of Derek Theler,In front of Derek Theler.,True
+Chai Hansen is above Sean Maguire.,Where is Sean Maguire?,below Chai Hansen,Underneath Chai Hansen.,False
+Ayelet Zurer is underneath Jeremy Swift.,Where is Jeremy Swift?,on top of Ayelet Zurer,On top of Ayelet Zurer.,True
+Tinatin Dalakishvili is left of Jami Gertz.,Where is Jami Gertz?,right of Tinatin Dalakishvili,Jami Gertz is right of Tinatin Dalakishvili.,True
+Taylor Tomlinson is above Diana Silvers.,Where is Diana Silvers?,below Taylor Tomlinson,Underneath Taylor Tomlinson.,False
+Rob Zombie is left of Paul Walker.,Where is Paul Walker?,right of Rob Zombie,Right of Rob Zombie.,True
+Anna-Maria Sieklucka is behind Tate Donovan.,Where is Tate Donovan?,in front of Anna-Maria Sieklucka,In front of Anna-Maria Sieklucka.,True
+Frankie Faison is below Alisan Porter.,Where is Alisan Porter?,above Frankie Faison,Above Frankie Faison.,True
+Joel McCrea is below Ricardo Montalban.,Where is Ricardo Montalban?,above Joel McCrea,Above Joel McCrea.,True
+Alexis Denisof is below Sherry Jackson.,Where is Sherry Jackson?,above Alexis Denisof,Above Alexis Denisof.,True
+Shonda Rhimes is in front of Robert Oberst.,Where is Robert Oberst?,behind Shonda Rhimes,Behind Shonda Rhimes.,True
+Rachel Hurd-Wood is in front of Charlie Brooker.,Where is Charlie Brooker?,behind Rachel Hurd-Wood,Behind Rachel Hurd-Wood.,True
+Derek Jacobi is behind Paul McCrane.,Where is Paul McCrane?,in front of Derek Jacobi,In front of Derek Jacobi.,True
+Suri Cruise is below Levy Tran.,Where is Levy Tran?,above Suri Cruise,Above Suri Cruise.,True
+John Beasley is right of Heidi Klum.,Where is Heidi Klum?,left of John Beasley,Left of John Beasley.,True
+Brenda Vaccaro is below Mike Reiss.,Where is Mike Reiss?,above Brenda Vaccaro,Above Brenda Vaccaro.,True
+Cooper Hoffman is right of James Fleet.,Where is James Fleet?,left of Cooper Hoffman,Left of Cooper Hoffman.,True
+Gemma Chan is below Laz Alonso.,Where is Laz Alonso?,above Gemma Chan,Above Gemma Chan.,True
+Wes Craven is above Emmanuelle Vaugier.,Where is Emmanuelle Vaugier?,below Wes Craven,Underneath Wes Craven.,False
+Ron Eldard is in front of Zen Gesner.,Where is Zen Gesner?,behind Ron Eldard,Behind Ron Eldard.,True
+Nicole Andrews is left of Jacob Pechenik.,Where is Jacob Pechenik?,right of Nicole Andrews,Jacob Pechenik is right of Nicole Andrews.,True
+Scarlett Pomers is right of Gwyneth Keyworth.,Where is Gwyneth Keyworth?,left of Scarlett Pomers,Left of Scarlett Pomers.,True
+Jackie Hoffman is right of Elden Henson.,Where is Elden Henson?,left of Jackie Hoffman,Elden Henson is left of Jackie Hoffman.,True
+Brooke D'Orsay is underneath Hope Davis.,Where is Hope Davis?,on top of Brooke D'Orsay,On top of Brooke D'Orsay.,True
+Simonetta Stefanelli is below Veronica Ngo.,Where is Veronica Ngo?,above Simonetta Stefanelli,On top of Simonetta Stefanelli.,False
+Michelle Randolph is on top of Robert Stack.,Where is Robert Stack?,underneath Michelle Randolph,Underneath Michelle Randolph.,True
+Briana Cuoco is in front of Frankie Faison.,Where is Frankie Faison?,behind Briana Cuoco,Behind Briana Cuoco.,True
+James Gandolfini is in front of Sheree North.,Where is Sheree North?,behind James Gandolfini,Behind James Gandolfini.,True
+Yennis Cheung is above Valerie Bertinelli.,Where is Valerie Bertinelli?,below Yennis Cheung,Valerie Bertinelli is underneath Yennis Cheung.,False
+Rob Huebel is in front of Angourie Rice.,Where is Angourie Rice?,behind Rob Huebel,Behind Rob Huebel.,True
+Rosalie Chiang is above Gavin McHugh.,Where is Gavin McHugh?,below Rosalie Chiang,Gavin McHugh is below Rosalie Chiang.,True
+Janet Montgomery is left of Rue McClanahan.,Where is Rue McClanahan?,right of Janet Montgomery,Rue McClanahan is right of Janet Montgomery.,True
+Dee Bradley Baker is underneath Mekki Leeper.,Where is Mekki Leeper?,on top of Dee Bradley Baker,On top of Dee Bradley Baker.,True
+Christopher Judge is on top of Melia Kreiling.,Where is Melia Kreiling?,underneath Christopher Judge,Underneath Christopher Judge.,True
+Misha Collins is above Gloria Stuart.,Where is Gloria Stuart?,below Misha Collins,Underneath Misha Collins.,False
+Ella Faris is in front of Marie Windsor.,Where is Marie Windsor?,behind Ella Faris,Behind Ella Faris.,True
+Nestor Carbonell is underneath Tyler Johnston.,Where is Tyler Johnston?,on top of Nestor Carbonell,On top of Nestor Carbonell.,True
+Jon Bass is in front of Teresa Ganzel.,Where is Teresa Ganzel?,behind Jon Bass,Behind Jon Bass.,True
+Bill Skarsgård is in front of Simon Pegg.,Where is Simon Pegg?,behind Bill Skarsgård,Behind Bill Skarsgård.,True
+Betsy Brantley is behind Yonas Kibreab.,Where is Yonas Kibreab?,in front of Betsy Brantley,In front of Betsy Brantley.,True
+Katheryn Winnick is below Stephen Rea.,Where is Stephen Rea?,above Katheryn Winnick,Above Katheryn Winnick.,True
+Jane Adams is above Charlie Hunnam.,Where is Charlie Hunnam?,below Jane Adams,Underneath Jane Adams.,False
+Kim Dickens is above Jennifer Holland.,Where is Jennifer Holland?,below Kim Dickens,Underneath Kim Dickens.,False
+Peter Gadiot is underneath Andrew McCarthy.,Where is Andrew McCarthy?,on top of Peter Gadiot,On top of Peter Gadiot.,True
+Kathrine Narducci is on top of Joel Coen.,Where is Joel Coen?,underneath Kathrine Narducci,Underneath Kathrine Narducci.,True
+Andrew Gower is underneath Craig Ferguson.,Where is Craig Ferguson?,on top of Andrew Gower,On top of Andrew Gower.,True
+Richard Jenkins is left of Debra Wilson.,Where is Debra Wilson?,right of Richard Jenkins,Debra Wilson is right of Richard Jenkins.,True
+Joanna Pettet is behind Halle Bailey.,Where is Halle Bailey?,in front of Joanna Pettet,In front of Joanna Pettet.,True
+Fiona Shaw is behind Brittany Bristow.,Where is Brittany Bristow?,in front of Fiona Shaw,In front of Fiona Shaw.,True
+Lucas Neff is on top of Richard Dean Anderson.,Where is Richard Dean Anderson?,underneath Lucas Neff,Underneath Lucas Neff.,True
+Dolly Parton is below Jack Champion.,Where is Jack Champion?,above Dolly Parton,Above Dolly Parton.,True
+Warren Christie is underneath Joan Chen.,Where is Joan Chen?,on top of Warren Christie,On top of Warren Christie.,True
+Steven Knight is above John Billingsley.,Where is John Billingsley?,below Steven Knight,Underneath Steven Knight.,False
+Lucy DeVito is above Kevin Durand.,Where is Kevin Durand?,below Lucy DeVito,Kevin Durand is below Lucy DeVito.,True
+Laura Harrier is right of Steven Williams.,Where is Steven Williams?,left of Laura Harrier,Steven Williams is left of Laura Harrier.,True
+Michael DeLuise is behind June Vincent.,Where is June Vincent?,in front of Michael DeLuise,In front of Michael DeLuise.,True
+Paul Freeman is left of Kristin Bauer.,Where is Kristin Bauer?,right of Paul Freeman,Kristin Bauer is right of Paul Freeman.,True
+Caterina Scorsone is underneath Manny Montana.,Where is Manny Montana?,on top of Caterina Scorsone,On top of Caterina Scorsone.,True
+Giulio Berruti is in front of Bel Powley.,Where is Bel Powley?,behind Giulio Berruti,Behind Giulio Berruti.,True
+Winston Duke is underneath Josh Groban.,Where is Josh Groban?,on top of Winston Duke,On top of Winston Duke.,True
+Steve Lund is right of Samantha Hanratty.,Where is Samantha Hanratty?,left of Steve Lund,Left of Steve Lund.,True
+Derek Webster is in front of Rhys Coiro.,Where is Rhys Coiro?,behind Derek Webster,Behind Derek Webster.,True
+Clara Galle is on top of Gaite Jansen.,Where is Gaite Jansen?,underneath Clara Galle,Underneath Clara Galle.,True
+Ana de Armas is above Michael Fassbender.,Where is Michael Fassbender?,below Ana de Armas,Underneath Ana de Armas.,False
+Stacey Farber is on top of Rob Huebel.,Where is Rob Huebel?,underneath Stacey Farber,Underneath Stacey Farber.,True
+Merrin Dungey is right of Yael Grobglas.,Where is Yael Grobglas?,left of Merrin Dungey,Yael Grobglas is left of Merrin Dungey.,True
+Deirdre Lovejoy is below Kerris Dorsey.,Where is Kerris Dorsey?,above Deirdre Lovejoy,Above Deirdre Lovejoy.,True
+Josh Stewart is behind Joan Blondell.,Where is Joan Blondell?,in front of Josh Stewart,In front of Josh Stewart.,True
+Bella Dayne is left of Andrew Gower.,Where is Andrew Gower?,right of Bella Dayne,To the right of Bella Dayne.,True
+Mamie Van Doren is left of Masiela Lusha.,Where is Masiela Lusha?,right of Mamie Van Doren,Masiela Lusha is right of Mamie Van Doren.,True
+Emily Osment is underneath Cynthia Addai-Robinson.,Where is Cynthia Addai-Robinson?,on top of Emily Osment,On top of Emily Osment.,True
+Claudine Auger is right of Joey Lawrence.,Where is Joey Lawrence?,left of Claudine Auger,Left of Claudine Auger.,True
+Mike Vitar is below Jenna von Oÿ.,Where is Jenna von Oÿ?,above Mike Vitar,Above Mike Vitar.,True
+Amy Seimetz is below Ramsey.,Where is Ramsey?,above Amy Seimetz,Above Amy Seimetz.,True
+Julius Harris is right of Mariel Molino.,Where is Mariel Molino?,left of Julius Harris,Mariel Molino is left of Julius Harris.,True
+Yael Grobglas is below Billy Bob Thornton.,Where is Billy Bob Thornton?,above Yael Grobglas,Above Yael Grobglas.,True
+John Heard is left of Kate del Castillo.,Where is Kate del Castillo?,right of John Heard,Kate del Castillo is right of John Heard.,True
+Alison Wright is behind Dave Chappelle.,Where is Dave Chappelle?,in front of Alison Wright,In front of Alison Wright.,True
+Robert Mitchum is above Vincent Kartheiser.,Where is Vincent Kartheiser?,below Robert Mitchum,Underneath Robert Mitchum.,False
+Robert Guillaume is on top of Sam Worthington.,Where is Sam Worthington?,underneath Robert Guillaume,Underneath Robert Guillaume.,True
+David Wenham is underneath Mel Ferrer.,Where is Mel Ferrer?,on top of David Wenham,On top of David Wenham.,True
+Samantha Bond is on top of Zach McGowan.,Where is Zach McGowan?,underneath Samantha Bond,Underneath Samantha Bond.,True
+Elle Graham is below Brianne Howey.,Where is Brianne Howey?,above Elle Graham,Above Elle Graham.,True
+Grace Edwards is right of Nana Visitor.,Where is Nana Visitor?,left of Grace Edwards,Nana Visitor is left of Grace Edwards.,True
+Matthew Macfadyen is above Abby Ryder Fortson.,Where is Abby Ryder Fortson?,below Matthew Macfadyen,Underneath Matthew Macfadyen.,False
+Flula Borg is in front of Miyavi.,Where is Miyavi?,behind Flula Borg,Behind Flula Borg.,True
+Kim Woo-bin is right of Bob Hoskins.,Where is Bob Hoskins?,left of Kim Woo-bin,Left of Kim Woo-bin.,True
+Bradley Gregg is below Nicole Andrews.,Where is Nicole Andrews?,above Bradley Gregg,Above Bradley Gregg.,True
+Keean Johnson is in front of Michael Socha.,Where is Michael Socha?,behind Keean Johnson,Behind Keean Johnson.,True
+George Clooney is right of Mary J. Blige.,Where is Mary J. Blige?,left of George Clooney,Mary J. Blige is left of George Clooney.,True
+Jason James Richter is right of Queen Latifah.,Where is Queen Latifah?,left of Jason James Richter,Left of Jason James Richter.,True
+Lucas Grabeel is right of Steve Coogan.,Where is Steve Coogan?,left of Lucas Grabeel,Left of Lucas Grabeel.,True
+Sofia Carson is above David Benioff.,Where is David Benioff?,below Sofia Carson,Below Sofia Carson.,True
+Jennie Kim is on top of Lee Evans.,Where is Lee Evans?,underneath Jennie Kim,Underneath Jennie Kim.,True
+Chuck Aspegren is in front of Susan Lynch.,Where is Susan Lynch?,behind Chuck Aspegren,Behind Chuck Aspegren.,True
+Burt Young is below John Laughlin.,Where is John Laughlin?,above Burt Young,Above Burt Young.,True
+Chelsea Peretti is underneath Karen Allen.,Where is Karen Allen?,on top of Chelsea Peretti,On top of Chelsea Peretti.,True
+Halston Sage is above April Bowlby.,Where is April Bowlby?,below Halston Sage,Underneath Halston Sage.,False
+Stormi Maya is above Neil Flynn.,Where is Neil Flynn?,below Stormi Maya,Underneath Stormi Maya.,False
+Gary Dourdan is below Adele James.,Where is Adele James?,above Gary Dourdan,Above Gary Dourdan.,True
+Hope Lange is below Tim McInnerny.,Where is Tim McInnerny?,above Hope Lange,Above Hope Lange.,True
+Amelia Rose Blaire is above Catherine Hicks.,Where is Catherine Hicks?,below Amelia Rose Blaire,Underneath Amelia Rose Blaire.,False
+Bill Paterson is underneath Scott Wilson.,Where is Scott Wilson?,on top of Bill Paterson,On top of Bill Paterson.,True
+Aaron Staton is left of Julia Garner.,Where is Julia Garner?,right of Aaron Staton,Julia Garner is right of Aaron Staton.,True
+Laurie Metcalf is left of Hayley Mills.,Where is Hayley Mills?,right of Laurie Metcalf,Hayley Mills is right of Laurie Metcalf.,True
+Sonequa Martin-Green is behind Cress Williams.,Where is Cress Williams?,in front of Sonequa Martin-Green,In front of Sonequa Martin-Green.,True
+Vondie Curtis-Hall is above Jake T. Austin.,Where is Jake T. Austin?,below Vondie Curtis-Hall,Underneath Vondie Curtis-Hall.,False
+Chelan Simmons is behind Marsha Mason.,Where is Marsha Mason?,in front of Chelan Simmons,In front of Chelan Simmons.,True
+Bryan Singer is left of Valter Skarsgård.,Where is Valter Skarsgård?,right of Bryan Singer,Valter Skarsgård is right of Bryan Singer.,True
+Jimmy Lydon is below Christopher Guest.,Where is Christopher Guest?,above Jimmy Lydon,Above Jimmy Lydon.,True
+Bruce Willis is right of Nestor Serrano.,Where is Nestor Serrano?,left of Bruce Willis,Nestor Serrano is left of Bruce Willis.,True
+Ali Selim is above Amanda Wyss.,Where is Amanda Wyss?,below Ali Selim,Underneath Ali Selim.,False
+Roger Deakins is in front of Isiah Whitlock Jr..,Where is Isiah Whitlock Jr.?,behind Roger Deakins,Behind Roger Deakins.,True
+Jon Bernthal is above Jason Beghe.,Where is Jason Beghe?,below Jon Bernthal,Underneath Jon Bernthal.,False
+Enuka Okuma is in front of Luke Kleintank.,Where is Luke Kleintank?,behind Enuka Okuma,Behind Enuka Okuma.,True
+Jayne Brook is underneath Jason Dohring.,Where is Jason Dohring?,on top of Jayne Brook,On top of Jayne Brook.,True
+Geraldine Viswanathan is underneath Millicent Martin.,Where is Millicent Martin?,on top of Geraldine Viswanathan,On top of Geraldine Viswanathan.,True
+Christopher Backus is above Meadow Williams.,Where is Meadow Williams?,below Christopher Backus,Underneath Christopher Backus.,False
+Myha'la Herrold is underneath Stephen Dorff.,Where is Stephen Dorff?,on top of Myha'la Herrold,On top of Myha'la Herrold.,True
+Kristanna Loken is below Ernie Hudson.,Where is Ernie Hudson?,above Kristanna Loken,Above Kristanna Loken.,True
+Matthias Schoenaerts is behind Ben Smith-Petersen.,Where is Ben Smith-Petersen?,in front of Matthias Schoenaerts,In front of Matthias Schoenaerts.,True
+Antoinette Robertson is left of Kurt Russell.,Where is Kurt Russell?,right of Antoinette Robertson,Right of Antoinette Robertson.,True
+Elizabeth Peña is above Claudia O'Doherty.,Where is Claudia O'Doherty?,below Elizabeth Peña,Claudia O'Doherty is below Elizabeth Peña.,True
+Mariami Kovziashvili is below Laura Haddock.,Where is Laura Haddock?,above Mariami Kovziashvili,Above Mariami Kovziashvili.,True
+Marta Kovziashvili is behind Jamie Anne Allman.,Where is Jamie Anne Allman?,in front of Marta Kovziashvili,In front of Marta Kovziashvili.,True
+Sonoya Mizuno is in front of Helen McCrory.,Where is Helen McCrory?,behind Sonoya Mizuno,Behind Sonoya Mizuno.,True
+Roger Deakins is underneath Natalie Burn.,Where is Natalie Burn?,on top of Roger Deakins,On top of Roger Deakins.,True
+Pernell Roberts is left of Bryan Cranston.,Where is Bryan Cranston?,right of Pernell Roberts,Right of Pernell Roberts.,True
+Michael Rennie is on top of Zac Efron.,Where is Zac Efron?,underneath Michael Rennie,Underneath Michael Rennie.,True
+Jon Glaser is in front of Ferdia Walsh-Peelo.,Where is Ferdia Walsh-Peelo?,behind Jon Glaser,Behind Jon Glaser.,True
+M. Night Shyamalan is right of Sherilyn Fenn.,Where is Sherilyn Fenn?,left of M. Night Shyamalan,Sherilyn Fenn is left of M. Night Shyamalan.,True
+Kerry Fox is underneath Joan Chen.,Where is Joan Chen?,on top of Kerry Fox,On top of Kerry Fox.,True
+Gina Bellman is above Avaah Blackwell.,Where is Avaah Blackwell?,below Gina Bellman,Avaah Blackwell is underneath Gina Bellman.,False
+Simon Farnaby is above Kareena Kapoor.,Where is Kareena Kapoor?,below Simon Farnaby,Kareena Kapoor is below Simon Farnaby.,True
+Ellie Kendrick is below Fivel Stewart.,Where is Fivel Stewart?,above Ellie Kendrick,Above Ellie Kendrick.,True
+Justin Theroux is right of Holly Austin.,Where is Holly Austin?,left of Justin Theroux,Holly Austin is left of Justin Theroux.,True
+Ben Chaplin is behind Kayla Lorette.,Where is Kayla Lorette?,in front of Ben Chaplin,In front of Ben Chaplin.,True
+Joseph Kosinski is in front of Oliver Savell.,Where is Oliver Savell?,behind Joseph Kosinski,Behind Joseph Kosinski.,True
+Rutina Wesley is in front of Zoë Kravitz.,Where is Zoë Kravitz?,behind Rutina Wesley,Behind Rutina Wesley.,True
+Eric Shea is on top of Martin Freeman.,Where is Martin Freeman?,underneath Eric Shea,Underneath Eric Shea.,True
+Amie Donald is left of Colton Ryan.,Where is Colton Ryan?,right of Amie Donald,Right of Amie Donald.,True
+Spencer Tracy is left of Wolfgang Petersen.,Where is Wolfgang Petersen?,right of Spencer Tracy,Wolfgang Petersen is right of Spencer Tracy.,True
+Marisa Pavan is above Jim Broadbent.,Where is Jim Broadbent?,below Marisa Pavan,Underneath Marisa Pavan.,False
+Felix Mallard is left of Rhea Perlman.,Where is Rhea Perlman?,right of Felix Mallard,Rhea Perlman is right of Felix Mallard.,True
+Chris Young is left of Tadanobu Asano.,Where is Tadanobu Asano?,right of Chris Young,Tadanobu Asano is right of Chris Young.,True
+Shannon Purser is below Brooke Bundy.,Where is Brooke Bundy?,above Shannon Purser,Above Shannon Purser.,True
+Ben Starr is behind Anne Meara.,Where is Anne Meara?,in front of Ben Starr,In front of Ben Starr.,True
+Genesis Rodriguez is above Mary McDonnell.,Where is Mary McDonnell?,below Genesis Rodriguez,Mary McDonnell is below Genesis Rodriguez.,True
+Lisa LoCicero is right of Mrunal Thakur.,Where is Mrunal Thakur?,left of Lisa LoCicero,Mrunal Thakur is left of Lisa LoCicero.,True
+Floriana Lima is right of Tracy Spiridakos.,Where is Tracy Spiridakos?,left of Floriana Lima,Tracy Spiridakos is to the left of Floriana Lima.,True
+Lauren Compton is right of Lauren Stamile.,Where is Lauren Stamile?,left of Lauren Compton,Left of Lauren Compton.,True
+Andrew Wilson is underneath Joan Taylor.,Where is Joan Taylor?,on top of Andrew Wilson,Above Andrew Wilson.,False
+Matthew Vaughn is on top of Alyson Reed.,Where is Alyson Reed?,underneath Matthew Vaughn,Underneath Matthew Vaughn.,True
+Kelly Sullivan is behind Steve Zahn.,Where is Steve Zahn?,in front of Kelly Sullivan,In front of Kelly Sullivan.,True
+Samuel West is below Michael Jeter.,Where is Michael Jeter?,above Samuel West,Above Samuel West.,True
+Leon is in front of Johnny Crawford.,Where is Johnny Crawford?,behind Leon,Behind Leon.,True
+Inbar Lavi is left of Jared Leto.,Where is Jared Leto?,right of Inbar Lavi,Right of Inbar Lavi.,True
+Isabelle Cornish is behind Megan Cavanagh.,Where is Megan Cavanagh?,in front of Isabelle Cornish,In front of Isabelle Cornish.,True
+Kelly Rowan is behind Shemar Moore.,Where is Shemar Moore?,in front of Kelly Rowan,In front of Kelly Rowan.,True
+John Hoogenakker is left of Mark McKinney.,Where is Mark McKinney?,right of John Hoogenakker,Mark McKinney is right of John Hoogenakker.,True
+Jeffrey Donovan is left of Brock Ciarlelli.,Where is Brock Ciarlelli?,right of Jeffrey Donovan,Brock Ciarlelli is right of Jeffrey Donovan.,True
+Rihanna is underneath Kris Murrell.,Where is Kris Murrell?,on top of Rihanna,On top of Rihanna.,True
+Maria Menounos is above Jake Lloyd.,Where is Jake Lloyd?,below Maria Menounos,Underneath Maria Menounos.,False
+Robert Englund is underneath Kasia Smutniak.,Where is Kasia Smutniak?,on top of Robert Englund,On top of Robert Englund.,True
+Walt Disney is in front of Sydney Park.,Where is Sydney Park?,behind Walt Disney,Behind Walt Disney.,True
+Isla Fisher is above Priscilla Barnes.,Where is Priscilla Barnes?,below Isla Fisher,Underneath Isla Fisher.,False
+Linda Lavin is left of Bellamy Young.,Where is Bellamy Young?,right of Linda Lavin,Bellamy Young is right of Linda Lavin.,True
+Elizabeth Berrington is right of Gillian Anderson.,Where is Gillian Anderson?,left of Elizabeth Berrington,Left of Elizabeth Berrington.,True
+Diane Keaton is behind Rodger Corser.,Where is Rodger Corser?,in front of Diane Keaton,In front of Diane Keaton.,True
+Jean Seberg is above Akiva Goldsman.,Where is Akiva Goldsman?,below Jean Seberg,Underneath Jean Seberg.,False
+Jane Horrocks is underneath Brenda Benet.,Where is Brenda Benet?,on top of Jane Horrocks,On top of Jane Horrocks.,True
+Amanda Peterson is behind Julia Schlaepfer.,Where is Julia Schlaepfer?,in front of Amanda Peterson,In front of Amanda Peterson.,True
+Phil Davis is in front of Carmen Electra.,Where is Carmen Electra?,behind Phil Davis,Behind Phil Davis.,True
+Ving Rhames is on top of Lara Silva.,Where is Lara Silva?,underneath Ving Rhames,Underneath Ving Rhames.,True
+Chris Young is underneath Rachel Melvin.,Where is Rachel Melvin?,on top of Chris Young,On top of Chris Young.,True
+Can Yaman is right of Synnøve Macody Lund.,Where is Synnøve Macody Lund?,left of Can Yaman,Synnøve Macody Lund is left of Can Yaman.,True
+Alex Hirsch is on top of Marny Kennedy.,Where is Marny Kennedy?,underneath Alex Hirsch,Underneath Alex Hirsch.,True
+Tammy Lauren is in front of Lisa Waltz.,Where is Lisa Waltz?,behind Tammy Lauren,Behind Tammy Lauren.,True
+Edward Asner is below David O. Russell.,Where is David O. Russell?,above Edward Asner,Above Edward Asner.,True
+Amanda Blake is on top of Melissa Sagemiller.,Where is Melissa Sagemiller?,underneath Amanda Blake,Underneath Amanda Blake.,True
+Elsa Martinelli is left of Heather Graham.,Where is Heather Graham?,right of Elsa Martinelli,Heather Graham is right of Elsa Martinelli.,True
+Saundra Santiago is above Hugo Weaving.,Where is Hugo Weaving?,below Saundra Santiago,Below Saundra Santiago.,True
+Jackie Joseph is underneath Jay Duplass.,Where is Jay Duplass?,on top of Jackie Joseph,On top of Jackie Joseph.,True
+Warren Kole is left of Tom Cavanagh.,Where is Tom Cavanagh?,right of Warren Kole,Tom Cavanagh is right of Warren Kole.,True
+Joey Lauren Adams is in front of Harriet Dyer.,Where is Harriet Dyer?,behind Joey Lauren Adams,Behind Joey Lauren Adams.,True
+Rob Corddry is in front of Susan Lucci.,Where is Susan Lucci?,behind Rob Corddry,Behind Rob Corddry.,True
+Lou Diamond Phillips is below Martha MacIsaac.,Where is Martha MacIsaac?,above Lou Diamond Phillips,Above Lou Diamond Phillips.,True
+Norman Reedus is behind Zane Holtz.,Where is Zane Holtz?,in front of Norman Reedus,In front of Norman Reedus.,True
+Virginia Madsen is in front of Terry Chen.,Where is Terry Chen?,behind Virginia Madsen,Behind Virginia Madsen.,True
+Ellen Greene is left of Stacy Keibler.,Where is Stacy Keibler?,right of Ellen Greene,To the right of Ellen Greene.,True
+Susan Oliver is underneath Dean McDermott.,Where is Dean McDermott?,on top of Susan Oliver,On top of Susan Oliver.,True
+Tyler Hoechlin is behind Nadiuska.,Where is Nadiuska?,in front of Tyler Hoechlin,In front of Tyler Hoechlin.,True
+Method Man is left of Erin Moran.,Where is Erin Moran?,right of Method Man,Erin Moran is right of Method Man.,True
+Thandiwe Newton is on top of Anthony Starke.,Where is Anthony Starke?,underneath Thandiwe Newton,Underneath Thandiwe Newton.,True
+Neil Gaiman is right of David E. Kelley.,Where is David E. Kelley?,left of Neil Gaiman,Left of Neil Gaiman.,True
+Ethan Cutkosky is in front of Jessie Ennis.,Where is Jessie Ennis?,behind Ethan Cutkosky,Behind Ethan Cutkosky.,True
+Ricky Nelson is in front of Samantha Isler.,Where is Samantha Isler?,behind Ricky Nelson,Behind Ricky Nelson.,True
+Marin Ireland is right of Michele Lee.,Where is Michele Lee?,left of Marin Ireland,Left of Marin Ireland.,True
+Tammy Grimes is underneath Tracy Pollan.,Where is Tracy Pollan?,on top of Tammy Grimes,On top of Tammy Grimes.,True
+Johnny Knoxville is behind Dennis Weaver.,Where is Dennis Weaver?,in front of Johnny Knoxville,In front of Johnny Knoxville.,True
+Jack Coleman is left of James Duval.,Where is James Duval?,right of Jack Coleman,James Duval is right of Jack Coleman.,True
+Anna Chancellor is in front of Zoey Merchant.,Where is Zoey Merchant?,behind Anna Chancellor,Behind Anna Chancellor.,True
+Meredith Monroe is behind Danny McBride.,Where is Danny McBride?,in front of Meredith Monroe,In front of Meredith Monroe.,True
+Willie Garson is above Dennis Farina.,Where is Dennis Farina?,below Willie Garson,Underneath Willie Garson.,False
+Apollonia Kotero is underneath Vanessa Lachey.,Where is Vanessa Lachey?,on top of Apollonia Kotero,On top of Apollonia Kotero.,True
+Dolph Lundgren is on top of Sacha Baron Cohen.,Where is Sacha Baron Cohen?,underneath Dolph Lundgren,Underneath Dolph Lundgren.,True
+Django Chan-Reeves is left of Joe Penny.,Where is Joe Penny?,right of Django Chan-Reeves,Joe Penny is right of Django Chan-Reeves.,True
+Alison Oliver is behind Robert Montgomery.,Where is Robert Montgomery?,in front of Alison Oliver,In front of Alison Oliver.,True
+Alisha Wainwright is behind Joyce Bulifant.,Where is Joyce Bulifant?,in front of Alisha Wainwright,In front of Alisha Wainwright.,True
+Darlene Vogel is in front of John Griffin.,Where is John Griffin?,behind Darlene Vogel,Behind Darlene Vogel.,True
+Michael McShane is right of Dominique Thorne.,Where is Dominique Thorne?,left of Michael McShane,Left of Michael McShane.,True
+Aimee Lou Wood is in front of Barbara Bel Geddes.,Where is Barbara Bel Geddes?,behind Aimee Lou Wood,Behind Aimee Lou Wood.,True
+Bridget Regan is right of Tyler James Williams.,Where is Tyler James Williams?,left of Bridget Regan,Left of Bridget Regan.,True
+Zach Braff is in front of Adèle Exarchopoulos.,Where is Adèle Exarchopoulos?,behind Zach Braff,Behind Zach Braff.,True
+Amy Irving is underneath Colton Ryan.,Where is Colton Ryan?,on top of Amy Irving,Above Amy Irving.,False
+Gavin Munn is behind Iain Glen.,Where is Iain Glen?,in front of Gavin Munn,In front of Gavin Munn.,True
+Nida Manzoor is on top of Daniel Moncada.,Where is Daniel Moncada?,underneath Nida Manzoor,Underneath Nida Manzoor.,True
+Matt McCoy is behind Kevin McHale.,Where is Kevin McHale?,in front of Matt McCoy,In front of Matt McCoy.,True
+Derek Webster is underneath Bridgit Mendler.,Where is Bridgit Mendler?,on top of Derek Webster,On top of Derek Webster.,True
+Charlotte Spencer is underneath Masiela Lusha.,Where is Masiela Lusha?,on top of Charlotte Spencer,On top of Charlotte Spencer.,True
+Thomas Lennon is underneath Chow Yun-Fat.,Where is Chow Yun-Fat?,on top of Thomas Lennon,On top of Thomas Lennon.,True
+Donnie Wahlberg is behind Max Greenfield.,Where is Max Greenfield?,in front of Donnie Wahlberg,In front of Donnie Wahlberg.,True
+Maria Bakalova is right of Adeel Akhtar.,Where is Adeel Akhtar?,left of Maria Bakalova,Adeel Akhtar is left of Maria Bakalova.,True
+Garrett Hedlund is left of Rekha Sharma.,Where is Rekha Sharma?,right of Garrett Hedlund,Rekha Sharma is right of Garrett Hedlund.,True
+Fede Alvarez is in front of Walter Matthau.,Where is Walter Matthau?,behind Fede Alvarez,Behind Fede Alvarez.,True
+Juliet Prowse is right of Barkhad Abdi.,Where is Barkhad Abdi?,left of Juliet Prowse,Left of Juliet Prowse.,True
+Erinn Bartlett is underneath Jennifer Jones.,Where is Jennifer Jones?,on top of Erinn Bartlett,On top of Erinn Bartlett.,True
+Ornella Muti is left of Mark Addy.,Where is Mark Addy?,right of Ornella Muti,Right of Ornella Muti.,True
+Joey Lauren Adams is right of Hayley Orrantia.,Where is Hayley Orrantia?,left of Joey Lauren Adams,Hayley Orrantia is left of Joey Lauren Adams.,True
+Kadeem Hardison is behind Patrick Brammall.,Where is Patrick Brammall?,in front of Kadeem Hardison,In front of Kadeem Hardison.,True
+Jerry Orbach is below Christian Camargo.,Where is Christian Camargo?,above Jerry Orbach,Above Jerry Orbach.,True
+Kathryn Morris is in front of Alex Williams.,Where is Alex Williams?,behind Kathryn Morris,Behind Kathryn Morris.,True
+Elle Graham is right of Nestor Serrano.,Where is Nestor Serrano?,left of Elle Graham,Left of Elle Graham.,True
+Vera Farmiga is left of Debra Jo Rupp.,Where is Debra Jo Rupp?,right of Vera Farmiga,Debra Jo Rupp is right of Vera Farmiga.,True
+Fred Gwynne is in front of Claire Holt.,Where is Claire Holt?,behind Fred Gwynne,Behind Fred Gwynne.,True
+Barbara Bouchet is above Casey Sander.,Where is Casey Sander?,below Barbara Bouchet,Below Barbara Bouchet.,True
+Madison Davenport is left of Juel Taylor.,Where is Juel Taylor?,right of Madison Davenport,Juel Taylor is right of Madison Davenport.,True
+Jeremy Irvine is above Rosemarie DeWitt.,Where is Rosemarie DeWitt?,below Jeremy Irvine,Underneath Jeremy Irvine.,False
+Jessica Reynolds is underneath Michael Zegen.,Where is Michael Zegen?,on top of Jessica Reynolds,On top of Jessica Reynolds.,True
+David Lyons is above Diane Farr.,Where is Diane Farr?,below David Lyons,Underneath David Lyons.,False
+Sian Clifford is on top of Sarah Butler.,Where is Sarah Butler?,underneath Sian Clifford,Underneath Sian Clifford.,True
+Pasha D. Lychnikoff is in front of Camille Cottin.,Where is Camille Cottin?,behind Pasha D. Lychnikoff,Behind Pasha D. Lychnikoff.,True
+Robert Loggia is right of Dan Schneider.,Where is Dan Schneider?,left of Robert Loggia,Left of Robert Loggia.,True
+Susan Dey is left of Rachael Bella.,Where is Rachael Bella?,right of Susan Dey,Right of Susan Dey.,True
+Wentworth Miller is on top of Juliette Lewis.,Where is Juliette Lewis?,underneath Wentworth Miller,Underneath Wentworth Miller.,True
+Gong Yoo is underneath Tom Waits.,Where is Tom Waits?,on top of Gong Yoo,On top of Gong Yoo.,True
+Alexis Denisof is left of Fisher Stevens.,Where is Fisher Stevens?,right of Alexis Denisof,Right of Alexis Denisof.,True
+Joel Coen is on top of Ava Kai Hauser.,Where is Ava Kai Hauser?,underneath Joel Coen,Underneath Joel Coen.,True
+John Larroquette is above Andrea Parker.,Where is Andrea Parker?,below John Larroquette,Underneath John Larroquette.,False
+John Hannah is right of Scott Evans.,Where is Scott Evans?,left of John Hannah,Left of John Hannah.,True
+Calli Taylor is left of James MacArthur.,Where is James MacArthur?,right of Calli Taylor,"Calli Taylor is left of James MacArthur.
+
+James MacArthur is right of Calli Taylor.",True
+Romy Rosemont is in front of Sheridan Smith.,Where is Sheridan Smith?,behind Romy Rosemont,Behind Romy Rosemont.,True
+Jim Belushi is left of Libe Barer.,Where is Libe Barer?,right of Jim Belushi,Libe Barer is right of Jim Belushi.,True
+Maureen McCormick is in front of Abigail Thaw.,Where is Abigail Thaw?,behind Maureen McCormick,Behind Maureen McCormick.,True
+Rob Estes is behind Susan Hayward.,Where is Susan Hayward?,in front of Rob Estes,In front of Rob Estes.,True
+Susan Blommaert is right of Skylar Gaertner.,Where is Skylar Gaertner?,left of Susan Blommaert,Skylar Gaertner is left of Susan Blommaert.,True
+Larry Hagman is underneath Aidan Gillen.,Where is Aidan Gillen?,on top of Larry Hagman,On top of Larry Hagman.,True
+Isabela Merced is behind Christopher Mintz-Plasse.,Where is Christopher Mintz-Plasse?,in front of Isabela Merced,In front of Isabela Merced.,True
+Noah Galvin is on top of Himesh Patel.,Where is Himesh Patel?,underneath Noah Galvin,Underneath Noah Galvin.,True
+Cobie Smulders is behind Jenny Wright.,Where is Jenny Wright?,in front of Cobie Smulders,In front of Cobie Smulders.,True
+Katharine McPhee is below Jill Hennessy.,Where is Jill Hennessy?,above Katharine McPhee,Above Katharine McPhee.,True
+Mickey Jones is in front of Hart Bochner.,Where is Hart Bochner?,behind Mickey Jones,Behind Mickey Jones.,True
+Michael Massee is below Anthony Michael Hall.,Where is Anthony Michael Hall?,above Michael Massee,Above Michael Massee.,True
+Sobhita Dhulipala is right of Phoebe Fox.,Where is Phoebe Fox?,left of Sobhita Dhulipala,Phoebe Fox is left of Sobhita Dhulipala.,True
+Peter Cambor is above Kajol.,Where is Kajol?,below Peter Cambor,Underneath Peter Cambor.,False
+Aimee Teegarden is left of Rick Famuyiwa.,Where is Rick Famuyiwa?,right of Aimee Teegarden,Right of Aimee Teegarden.,True
+Jacob Gibson is in front of Robert Costanzo.,Where is Robert Costanzo?,behind Jacob Gibson,Behind Jacob Gibson.,True
+Jay Roach is underneath Mike Batayeh.,Where is Mike Batayeh?,on top of Jay Roach,On top of Jay Roach.,True
+Rosamund Pike is in front of Jake Busey.,Where is Jake Busey?,behind Rosamund Pike,Behind Rosamund Pike.,True
+Chelah Horsdal is on top of Jonathan Taylor Thomas.,Where is Jonathan Taylor Thomas?,underneath Chelah Horsdal,Underneath Chelah Horsdal.,True
+David Iacono is behind Gigi Rice.,Where is Gigi Rice?,in front of David Iacono,In front of David Iacono.,True
+Danielle C. Ryan is behind Joshua John Miller.,Where is Joshua John Miller?,in front of Danielle C. Ryan,In front of Danielle C. Ryan.,True
+Charles Ruggles is right of Brandon Call.,Where is Brandon Call?,left of Charles Ruggles,Left of Charles Ruggles.,True
+Park Seo-joon is behind Ken Curtis.,Where is Ken Curtis?,in front of Park Seo-joon,In front of Park Seo-joon.,True
+Sasha Roiz is above Linda Kozlowski.,Where is Linda Kozlowski?,below Sasha Roiz,Underneath Sasha Roiz.,False
+Charlize Theron is above J.T. Walsh.,Where is J.T. Walsh?,below Charlize Theron,Underneath Charlize Theron.,False
+Mark McKinney is in front of Céline Dion.,Where is Céline Dion?,behind Mark McKinney,Behind Mark McKinney.,True
+Dwight Yoakam is above Peter Macon.,Where is Peter Macon?,below Dwight Yoakam,Underneath Dwight Yoakam.,False
+Priscilla Barnes is left of Kevin Nash.,Where is Kevin Nash?,right of Priscilla Barnes,Right of Priscilla Barnes.,True
+Denzel Washington is below Lola Tung.,Where is Lola Tung?,above Denzel Washington,Above Denzel Washington.,True
+Adèle Exarchopoulos is in front of Andrew Gower.,Where is Andrew Gower?,behind Adèle Exarchopoulos,Behind Adèle Exarchopoulos.,True
+Kristine Froseth is in front of Julia Davis.,Where is Julia Davis?,behind Kristine Froseth,Behind Kristine Froseth.,True
+Leigh Taylor-Young is underneath Olivia DeJonge.,Where is Olivia DeJonge?,on top of Leigh Taylor-Young,On top of Leigh Taylor-Young.,True
+Rainer Andreesen is right of Eugenio Derbez.,Where is Eugenio Derbez?,left of Rainer Andreesen,Left of Rainer Andreesen.,True
+Danila Kozlovskiy is underneath Dabney Coleman.,Where is Dabney Coleman?,on top of Danila Kozlovskiy,On top of Danila Kozlovskiy.,True
+Helen Hayes is below Catherine Hicks.,Where is Catherine Hicks?,above Helen Hayes,Above Helen Hayes.,True
+George Miller is behind Larry David.,Where is Larry David?,in front of George Miller,In front of George Miller.,True
+Bob Morley is on top of Elizabeth Hurley.,Where is Elizabeth Hurley?,underneath Bob Morley,Underneath Bob Morley.,True
+Atticus Shaffer is left of Jenette Goldstein.,Where is Jenette Goldstein?,right of Atticus Shaffer,Jenette Goldstein is right of Atticus Shaffer.,True
+Alexandra Roach is right of Faran Tahir.,Where is Faran Tahir?,left of Alexandra Roach,Left of Alexandra Roach.,True
+Ric Roman Waugh is underneath Jonathan Banks.,Where is Jonathan Banks?,on top of Ric Roman Waugh,On top of Ric Roman Waugh.,True
+Ajay Devgn is above Elizabeth Yu.,Where is Elizabeth Yu?,below Ajay Devgn,Underneath Ajay Devgn.,False
+Mhairi Calvey is in front of Danny Strong.,Where is Danny Strong?,behind Mhairi Calvey,Behind Mhairi Calvey.,True
+Jacki Weaver is behind Annabel Scholey.,Where is Annabel Scholey?,in front of Jacki Weaver,In front of Jacki Weaver.,True
+Natascha McElhone is on top of Michael Shanks.,Where is Michael Shanks?,underneath Natascha McElhone,Underneath Natascha McElhone.,True
+Phyllis Smith is above Charles Fleischer.,Where is Charles Fleischer?,below Phyllis Smith,Underneath Phyllis Smith.,False
+Joe Piscopo is left of August Diehl.,Where is August Diehl?,right of Joe Piscopo,To the right of Joe Piscopo.,True
+Sarah Butler is above Kevin Connolly.,Where is Kevin Connolly?,below Sarah Butler,Underneath Sarah Butler.,False
+Kerri Green is above Malin Akerman.,Where is Malin Akerman?,below Kerri Green,Malin Akerman is below Kerri Green.,True
+Danna Paola is on top of Susie Abromeit.,Where is Susie Abromeit?,underneath Danna Paola,Underneath Danna Paola.,True
+G.W. Bailey is above Joseph Fiennes.,Where is Joseph Fiennes?,below G.W. Bailey,Underneath G.W. Bailey.,False
+Katy Wix is underneath Lynda Carter.,Where is Lynda Carter?,on top of Katy Wix,On top of Katy Wix.,True
+Jamie Hector is behind Brianna Brown.,Where is Brianna Brown?,in front of Jamie Hector,In front of Jamie Hector.,True
+William R. Moses is above Tom Felton.,Where is Tom Felton?,below William R. Moses,Underneath William R. Moses.,False
+Catherine O'Hara is underneath Henry Rollins.,Where is Henry Rollins?,on top of Catherine O'Hara,On top of Catherine O'Hara.,True
+Adam Brody is left of Krista Kalmus.,Where is Krista Kalmus?,right of Adam Brody,Krista Kalmus is right of Adam Brody.,True
+Nicole Beharie is right of Van Johnson.,Where is Van Johnson?,left of Nicole Beharie,Van Johnson is to the left of Nicole Beharie.,True
+Vincent Pastore is underneath Chris Sarandon.,Where is Chris Sarandon?,on top of Vincent Pastore,On top of Vincent Pastore.,True
+Michael Biehn is below Jessie Ennis.,Where is Jessie Ennis?,above Michael Biehn,Above Michael Biehn.,True
+Charlie Kaufman is in front of Art Parkinson.,Where is Art Parkinson?,behind Charlie Kaufman,Behind Charlie Kaufman.,True
+Sacha Baron Cohen is above Charlie Sheen.,Where is Charlie Sheen?,below Sacha Baron Cohen,Underneath Sacha Baron Cohen.,False
+Nina Foch is below Taylor Hackford.,Where is Taylor Hackford?,above Nina Foch,Above Nina Foch.,True
+Hafþór Júlíus Björnsson is below Peter Boyle.,Where is Peter Boyle?,above Hafþór Júlíus Björnsson,Above Hafþór Júlíus Björnsson.,True
+Alexis Floyd is above Caroline Faber.,Where is Caroline Faber?,below Alexis Floyd,Caroline Faber is underneath Alexis Floyd.,False
+Freddie Highmore is left of Lotte Verbeek.,Where is Lotte Verbeek?,right of Freddie Highmore,Lotte Verbeek is right of Freddie Highmore.,True
+Stana Katic is left of Brenda Fricker.,Where is Brenda Fricker?,right of Stana Katic,Brenda Fricker is right of Stana Katic.,True
+Gates McFadden is right of Edward Fox.,Where is Edward Fox?,left of Gates McFadden,Left of Gates McFadden.,True
+Ian Alexander is in front of Zoe McLellan.,Where is Zoe McLellan?,behind Ian Alexander,Behind Ian Alexander.,True
+Beth Broderick is behind Jackie Swanson.,Where is Jackie Swanson?,in front of Beth Broderick,In front of Beth Broderick.,True
+Eleanor Worthington-Cox is underneath Ciarán Hinds.,Where is Ciarán Hinds?,on top of Eleanor Worthington-Cox,On top of Eleanor Worthington-Cox.,True
+Halina Reijn is on top of Georgina Reilly.,Where is Georgina Reilly?,underneath Halina Reijn,Underneath Halina Reijn.,True
+Wentworth Miller is above Paul Thomas Anderson.,Where is Paul Thomas Anderson?,below Wentworth Miller,Underneath Wentworth Miller.,False
+Kelley Jakle is underneath Matt Dillon.,Where is Matt Dillon?,on top of Kelley Jakle,On top of Kelley Jakle.,True
+Hanna Hall is left of Madeline Smith.,Where is Madeline Smith?,right of Hanna Hall,Madeline Smith is right of Hanna Hall.,True
+Bethany C. Meyers is in front of Marita Geraghty.,Where is Marita Geraghty?,behind Bethany C. Meyers,Behind Bethany C. Meyers.,True
+Keith Gordon is left of Peter Billingsley.,Where is Peter Billingsley?,right of Keith Gordon,To the right of Keith Gordon.,True
+Jorja Fox is left of Cameron Diaz.,Where is Cameron Diaz?,right of Jorja Fox,Cameron Diaz is right of Jorja Fox.,True
+Joanne Froggatt is on top of Meadow Walker.,Where is Meadow Walker?,underneath Joanne Froggatt,Underneath Joanne Froggatt.,True
+Vincent Van Patten is above Denis Ménochet.,Where is Denis Ménochet?,below Vincent Van Patten,Underneath Vincent Van Patten.,False
+Renée Zellweger is on top of Jerry Lewis.,Where is Jerry Lewis?,underneath Renée Zellweger,Underneath Renée Zellweger.,True
+Matt Barr is left of Jennifer Ehle.,Where is Jennifer Ehle?,right of Matt Barr,Jennifer Ehle is right of Matt Barr.,True
+Alisan Porter is in front of Patty Guggenheim.,Where is Patty Guggenheim?,behind Alisan Porter,Behind Alisan Porter.,True
+Marina Squerciati is on top of Jimmy Bennett.,Where is Jimmy Bennett?,underneath Marina Squerciati,Underneath Marina Squerciati.,True
+Terry Notary is above Robert Lansing.,Where is Robert Lansing?,below Terry Notary,Underneath Terry Notary.,False
+Dar Salim is above Ahsen Eroglu.,Where is Ahsen Eroglu?,below Dar Salim,Underneath Dar Salim.,False
+Lyliana Wray is below Mandy Moore.,Where is Mandy Moore?,above Lyliana Wray,Above Lyliana Wray.,True
+Tori Kelly is in front of Alexander Ludwig.,Where is Alexander Ludwig?,behind Tori Kelly,Behind Tori Kelly.,True
+Spencer Tracy is behind Sanjeev Bhaskar.,Where is Sanjeev Bhaskar?,in front of Spencer Tracy,In front of Spencer Tracy.,True
+Cécile de France is underneath Matilda Anna Ingrid Lutz.,Where is Matilda Anna Ingrid Lutz?,on top of Cécile de France,On top of Cécile de France.,True
+Larenz Tate is in front of Lyna Khoudri.,Where is Lyna Khoudri?,behind Larenz Tate,Behind Larenz Tate.,True
+Rong Fu is underneath Ivana Baquero.,Where is Ivana Baquero?,on top of Rong Fu,On top of Rong Fu.,True
+Rainn Wilson is left of John Lithgow.,Where is John Lithgow?,right of Rainn Wilson,To the right of Rainn Wilson.,True
+Ellen Burstyn is left of Gabriel Damon.,Where is Gabriel Damon?,right of Ellen Burstyn,Right of Ellen Burstyn.,True
+Michael Graziadei is below Emily Beecham.,Where is Emily Beecham?,above Michael Graziadei,Emily Beecham is above Michael Graziadei.,True
+Bryce Papenbrook is right of Trine Dyrholm.,Where is Trine Dyrholm?,left of Bryce Papenbrook,Trine Dyrholm is left of Bryce Papenbrook.,True
+Scott McCord is left of Cree.,Where is Cree?,right of Scott McCord,Cree is right of Scott McCord.,True
+Martin Ferrero is on top of Virginia Mayo.,Where is Virginia Mayo?,underneath Martin Ferrero,Underneath Martin Ferrero.,True
+Richard Harrington is right of Brigitte Kingsley.,Where is Brigitte Kingsley?,left of Richard Harrington,Brigitte Kingsley is left of Richard Harrington.,True
+Zosia Mamet is below Jack Palance.,Where is Jack Palance?,above Zosia Mamet,Above Zosia Mamet.,True
+Glenn Shadix is underneath Madlyn Rhue.,Where is Madlyn Rhue?,on top of Glenn Shadix,On top of Glenn Shadix.,True
+Ben Stiller is right of Bert Kreischer.,Where is Bert Kreischer?,left of Ben Stiller,Left of Ben Stiller.,True
+Elisabeth Hower is right of Charlie Weber.,Where is Charlie Weber?,left of Elisabeth Hower,Left of Elisabeth Hower.,True
+Claudia Black is below Marisa Tomei.,Where is Marisa Tomei?,above Claudia Black,Above Claudia Black.,True
+Ine Marie Wilmann is in front of Dan O'Herlihy.,Where is Dan O'Herlihy?,behind Ine Marie Wilmann,Behind Ine Marie Wilmann.,True
+Michael DeLuise is left of Alimi Ballard.,Where is Alimi Ballard?,right of Michael DeLuise,Alimi Ballard is right of Michael DeLuise.,True
+Rodney Dangerfield is on top of Madison Davenport.,Where is Madison Davenport?,underneath Rodney Dangerfield,Underneath Rodney Dangerfield.,True
+Josh Hopkins is in front of Morgan Lily.,Where is Morgan Lily?,behind Josh Hopkins,Behind Josh Hopkins.,True
+Yannick Bisson is underneath Stephen McHattie.,Where is Stephen McHattie?,on top of Yannick Bisson,On top of Yannick Bisson.,True
+Maitreyi Ramakrishnan is in front of Cara Gee.,Where is Cara Gee?,behind Maitreyi Ramakrishnan,Behind Maitreyi Ramakrishnan.,True
+Sally Struthers is behind Tony Goldwyn.,Where is Tony Goldwyn?,in front of Sally Struthers,In front of Sally Struthers.,True
+Robert Altman is below Luke Perry.,Where is Luke Perry?,above Robert Altman,Above Robert Altman.,True
+Ricardo Montalban is right of Jennifer Grant.,Where is Jennifer Grant?,left of Ricardo Montalban,Jennifer Grant is left of Ricardo Montalban.,True
+Mini Anden is behind Rupert Evans.,Where is Rupert Evans?,in front of Mini Anden,In front of Mini Anden.,True
+Matthew Rhys is below Emma Ferreira.,Where is Emma Ferreira?,above Matthew Rhys,Above Matthew Rhys.,True
+Hermione Norris is in front of Rory Kinnear.,Where is Rory Kinnear?,behind Hermione Norris,Behind Hermione Norris.,True
+Song Kang-ho is in front of Helen Shaver.,Where is Helen Shaver?,behind Song Kang-ho,Behind Song Kang-ho.,True
+Eric Petersen is on top of Mark Gatiss.,Where is Mark Gatiss?,underneath Eric Petersen,Underneath Eric Petersen.,True
+Alexandra Wentworth is on top of Natalie Krill.,Where is Natalie Krill?,underneath Alexandra Wentworth,Underneath Alexandra Wentworth.,True
+Sandra Dee is above Jamie McShane.,Where is Jamie McShane?,below Sandra Dee,Jamie McShane is below Sandra Dee.,True
+Brigitte Kingsley is right of Taylour Paige.,Where is Taylour Paige?,left of Brigitte Kingsley,Taylour Paige is left of Brigitte Kingsley.,True
+Mason Alexander Park is underneath Jeremy Irons.,Where is Jeremy Irons?,on top of Mason Alexander Park,On top of Mason Alexander Park.,True
+Jemima Rooper is behind Emily Swallow.,Where is Emily Swallow?,in front of Jemima Rooper,In front of Jemima Rooper.,True
+Nicholas Braun is right of Samantha Mathis.,Where is Samantha Mathis?,left of Nicholas Braun,Samantha Mathis is left of Nicholas Braun.,True
+Molly Ephraim is right of Malcolm McDowell.,Where is Malcolm McDowell?,left of Molly Ephraim,Left of Molly Ephraim.,True
+Dennis Quaid is right of Erika Eleniak.,Where is Erika Eleniak?,left of Dennis Quaid,Erika Eleniak is left of Dennis Quaid.,True
+Amanda Walsh is above Jaime Bergman.,Where is Jaime Bergman?,below Amanda Walsh,Underneath Amanda Walsh.,False
+MacKenzie Porter is above Sam Anderson.,Where is Sam Anderson?,below MacKenzie Porter,Underneath MacKenzie Porter.,False
+Tommy Flanagan is right of Keegan Allen.,Where is Keegan Allen?,left of Tommy Flanagan,Keegan Allen is left of Tommy Flanagan.,True
+Becki Newton is above Paul Freeman.,Where is Paul Freeman?,below Becki Newton,Underneath Becki Newton.,False
+Charles Rocket is in front of Rachael Taylor.,Where is Rachael Taylor?,behind Charles Rocket,Behind Charles Rocket.,True
+Debra Jo Rupp is below Charlie McDermott.,Where is Charlie McDermott?,above Debra Jo Rupp,Above Debra Jo Rupp.,True
+Sam Taylor-Johnson is behind Gilles Marini.,Where is Gilles Marini?,in front of Sam Taylor-Johnson,In front of Sam Taylor-Johnson.,True
+Pam Dawber is in front of Alexandra Wentworth.,Where is Alexandra Wentworth?,behind Pam Dawber,Behind Pam Dawber.,True
+Fran Drescher is behind Kip Pardue.,Where is Kip Pardue?,in front of Fran Drescher,In front of Fran Drescher.,True
+Fariba Sheikhan is underneath Andy Dick.,Where is Andy Dick?,on top of Fariba Sheikhan,On top of Fariba Sheikhan.,True
+Hope Lange is right of Sarah Lancashire.,Where is Sarah Lancashire?,left of Hope Lange,Left of Hope Lange.,True
+Mark McKenna is behind James Phelps.,Where is James Phelps?,in front of Mark McKenna,In front of Mark McKenna.,True
+Jerrika Hinton is left of David Faustino.,Where is David Faustino?,right of Jerrika Hinton,Right of Jerrika Hinton.,True
+Kid Cudi is right of Sam Hargrave.,Where is Sam Hargrave?,left of Kid Cudi,Sam Hargrave is left of Kid Cudi.,True
+Reg Park is behind John Patrick Amedori.,Where is John Patrick Amedori?,in front of Reg Park,In front of Reg Park.,True
+Louis C.K. is in front of Jim Davis.,Where is Jim Davis?,behind Louis C.K.,Behind Louis C.K.,True
+Ryan Cartwright is right of Rich Fulcher.,Where is Rich Fulcher?,left of Ryan Cartwright,Left of Ryan Cartwright.,True
+Danny Dyer is behind Sean Patrick Thomas.,Where is Sean Patrick Thomas?,in front of Danny Dyer,In front of Danny Dyer.,True
+Chelsea Peretti is below Lloyd Bridges.,Where is Lloyd Bridges?,above Chelsea Peretti,Above Chelsea Peretti.,True
+Billy Campbell is behind Kelly Monaco.,Where is Kelly Monaco?,in front of Billy Campbell,In front of Billy Campbell.,True
+Jonathan Rhys Meyers is above Ramona Young.,Where is Ramona Young?,below Jonathan Rhys Meyers,Underneath Jonathan Rhys Meyers.,False
+Kelly Brook is left of Katie McGrath.,Where is Katie McGrath?,right of Kelly Brook,Right of Kelly Brook.,True
+Kathy Baker is right of Brian Tyree Henry.,Where is Brian Tyree Henry?,left of Kathy Baker,Left of Kathy Baker.,True
+Alfonso Cuarón is right of Mickey Jones.,Where is Mickey Jones?,left of Alfonso Cuarón,Left of Alfonso Cuarón.,True
+Yeardley Smith is right of Heidi Swedberg.,Where is Heidi Swedberg?,left of Yeardley Smith,Heidi Swedberg is to the left of Yeardley Smith.,True
+Isidora Goreshter is behind Molly Ringwald.,Where is Molly Ringwald?,in front of Isidora Goreshter,In front of Isidora Goreshter.,True
+Vail Bloom is left of Sarah Greene.,Where is Sarah Greene?,right of Vail Bloom,Right of Vail Bloom.,True
+Colleen Haskell is behind Jenette Goldstein.,Where is Jenette Goldstein?,in front of Colleen Haskell,In front of Colleen Haskell.,True
+Scott Speedman is in front of Ella Anderson.,Where is Ella Anderson?,behind Scott Speedman,Behind Scott Speedman.,True
+Natalie Portman is right of Tony Curran.,Where is Tony Curran?,left of Natalie Portman,Left of Natalie Portman.,True
+Dwight Yoakam is above Madeline Kahn.,Where is Madeline Kahn?,below Dwight Yoakam,Underneath Dwight Yoakam.,False
+Jessica Paré is above Rowan Blanchard.,Where is Rowan Blanchard?,below Jessica Paré,Underneath Jessica Paré.,False
+Anne Meara is left of Ruby Modine.,Where is Ruby Modine?,right of Anne Meara,To the right of Anne Meara.,True
+Jasika Nicole is right of Esther Hall.,Where is Esther Hall?,left of Jasika Nicole,Left of Jasika Nicole.,True
+Garrett Clayton is behind Rick Gonzalez.,Where is Rick Gonzalez?,in front of Garrett Clayton,In front of Garrett Clayton.,True
+Louis Garrel is on top of Cheryl Campbell.,Where is Cheryl Campbell?,underneath Louis Garrel,Underneath Louis Garrel.,True
+Caroline Ford is in front of Ed Wynn.,Where is Ed Wynn?,behind Caroline Ford,Behind Caroline Ford.,True
+Justina Adorno is left of Stephanie Leonidas.,Where is Stephanie Leonidas?,right of Justina Adorno,Stephanie Leonidas is right of Justina Adorno.,True

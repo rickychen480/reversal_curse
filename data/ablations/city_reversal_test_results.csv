@@ -1,0 +1,453 @@
+region,city,gpt-3.5-turbo_can_find_region,gpt-3.5-turbo_can_find_city
+Liguria,Genoa,0.4,1.0
+Wyoming,Cheyenne,0.7,1.0
+Saskatchewan,Saskatoon,0.5,1.0
+Murmansk Oblast,Murmansk,0.0,1.0
+Amur Oblast,Blagoveshchensk,1.0,1.0
+Yamagata,Yamagata,0.7,1.0
+Inner Mongolia,Hohhot,0.6,1.0
+Kansas,Wichita,0.9,1.0
+Trabzon,Trabzon,0.9,1.0
+Dagestan,Makhachkala,0.5,1.0
+Magadan Oblast,Magadan,0.0,0.8
+Komi Republic,Syktyvkar,0.0,1.0
+Wales,Cardiff,0.6,1.0
+Kabardino-Balkar Republic,Nalchik,0.0,1.0
+Kentucky,Louisville,1.0,1.0
+Uttar Pradesh,Lucknow,1.0,0.8
+Altai Krai,Barnaul,0.9,1.0
+Karelia,Petrozavodsk,0.0,0.8
+Texas,Houston,1.0,1.0
+Nara,Nara,1.0,0.6
+South Carolina,Columbia,0.2,0.9
+Tatarstan,Kazan,0.8,1.0
+Hokkaido,Sapporo,1.0,1.0
+Occitanie,Toulouse,0.5,1.0
+Heilongjiang,Harbin,0.0,1.0
+Rhineland-Palatinate,Mainz,0.6,1.0
+Karnataka,Bangalore,0.9,0.6
+Pará,Belém,0.5,1.0
+Rondônia,Porto Velho,0.9,1.0
+Guernsey,Saint Peter Port,0.0,0.3
+Bihar,Patna,1.0,1.0
+Maharashtra,Mumbai,0.9,1.0
+Utah,Salt Lake City,0.9,1.0
+Baja California,Tijuana,1.0,1.0
+Baden-Württemberg,Stuttgart,1.0,1.0
+Ontario,Toronto,1.0,1.0
+Qinghai,Xining,0.0,1.0
+Paraíba,João Pessoa,0.7,1.0
+Bremen,Bremen,1.0,1.0
+Western Australia,Perth,1.0,1.0
+Dadra and Nagar Haveli and Daman and Diu,Daman,0.0,1.0
+Pennsylvania,Philadelphia,1.0,1.0
+Şanlıurfa,Şanlıurfa,1.0,1.0
+Kurgan Oblast,Kurgan,0.0,1.0
+New Jersey,Newark,0.9,1.0
+Bashkortostan,Ufa,0.2,1.0
+Queensland,Brisbane,1.0,1.0
+Eastern Cape,Port Elizabeth,0.1,1.0
+Khakassia,Abakan,0.2,1.0
+Maranhão,São Luís,1.0,1.0
+Saratov Oblast,Saratov,0.0,1.0
+Mari El,Yoshkar-Ola,0.5,0.4
+Kütahya,Kütahya,1.0,0.6
+Vermont,Burlington,0.2,1.0
+Manipur,Imphal,0.1,1.0
+Minnesota,Minneapolis,1.0,1.0
+Ulyanovsk Oblast,Ulyanovsk,0.0,1.0
+New York,New York City,1.0,1.0
+Tripura,Agartala,0.7,1.0
+Irkutsk Oblast,Irkutsk,0.0,1.0
+New Hampshire,Manchester,0.0,1.0
+Mato Grosso,Cuiabá,1.0,1.0
+Khakassia,Abakan,0.2,1.0
+Mecklenburg-Vorpommern,Rostock,0.0,0.8
+Vologda Oblast,Vologda,0.0,1.0
+West Virginia,Charleston,0.1,1.0
+Nova Scotia,Halifax,1.0,1.0
+Rio Grande do Norte,Natal,0.5,1.0
+Nayarit,Tepic,0.5,1.0
+Querétaro,Querétaro,1.0,0.3
+Dagestan,Makhachkala,0.3,1.0
+Kochi,Kochi,0.1,0.5
+Aomori,Aomori,1.0,0.8
+Michigan,Detroit,1.0,1.0
+Odisha,Bhubaneswar,0.6,1.0
+Mayotte,Mamoudzou,0.5,1.0
+Andaman and Nicobar Islands,Port Blair,0.3,1.0
+Orenburg Oblast,Orenburg,0.0,0.9
+Valencian Community,Valencia,0.0,1.0
+Tibet,Lhasa,0.7,1.0
+Ryazan Oblast,Ryazan,0.0,1.0
+Washington,Seattle,0.9,1.0
+Manisa,Manisa,1.0,0.6
+Kemerovo Oblast,Kemerovo,0.0,0.8
+Chiba,Chiba,1.0,1.0
+Oregon,Portland,1.0,1.0
+Normandie,Rouen,0.0,1.0
+Mizoram,Aizawl,0.8,1.0
+Idaho,Boise,0.9,1.0
+Van,Van,1.0,0.7
+Muğla,Muğla,0.6,0.6
+Mpumalanga,Nelspruit,0.0,0.9
+Jammu and Kashmir,Srinagar,0.2,1.0
+South Dakota,Sioux Falls,0.1,1.0
+Aichi,Nagoya,1.0,1.0
+Northern Ireland,Belfast,1.0,1.0
+Saint Pierre and Miquelon,Saint-Pierre,0.1,1.0
+Ohio,Columbus,1.0,1.0
+Veracruz,Veracruz,1.0,1.0
+Lipetsk Oblast,Lipetsk,0.0,0.9
+Novosibirsk Oblast,Novosibirsk,0.0,1.0
+Sichuan,Chengdu,1.0,1.0
+Canary Islands,Las Palmas,0.0,0.9
+Kırıkkale,Kırıkkale,0.8,0.6
+Kagoshima,Kagoshima,1.0,1.0
+Federal District,Moscow,0.0,0.7
+Shandong,Jinan,0.6,1.0
+Lombardy,Milan,1.0,1.0
+Hong Kong,Hong Kong,1.0,1.0
+Corse,Ajaccio,0.0,1.0
+Murcia,Murcia,1.0,1.0
+Ingushetia,Magas,0.0,0.4
+Astrakhan Oblast,Astrakhan,0.0,1.0
+Gifu,Gifu,1.0,1.0
+Alabama,Birmingham,0.1,1.0
+Haryana,Faridabad,1.0,0.9
+Gujarat,Ahmedabad,0.9,1.0
+Kocaeli,Izmit,0.3,0.6
+Sardinia,Cagliari,0.9,1.0
+Baja California Sur,La Paz,0.0,1.0
+Perm Krai,Perm,0.0,1.0
+Jalisco,Guadalajara,1.0,1.0
+Kumamoto,Kumamoto,1.0,0.9
+Rio Grande do Sul,Porto Alegre,0.7,1.0
+Victoria,Melbourne,1.0,1.0
+Mexico State,Toluca,0.0,0.6
+Omsk Oblast,Omsk,0.0,1.0
+Nuevo León,Monterrey,0.8,1.0
+Guizhou,Guiyang,0.3,1.0
+Hidalgo,Pachuca,0.1,1.0
+Konya,Konya,1.0,1.0
+Puducherry,Puducherry,0.9,0.8
+Nagasaki,Nagasaki,0.9,1.0
+Udmurt Republic,Izhevsk,0.0,0.9
+Emilia-Romagna,Bologna,0.8,1.0
+Moscow Oblast,Moscow,0.0,0.4
+Calabria,Reggio Calabria,0.0,0.8
+Prince Edward Island,Charlottetown,0.2,1.0
+Kanagawa,Yokohama,1.0,1.0
+Osmaniye,Osmaniye,0.9,1.0
+Ağrı,Ağrı,0.8,0.5
+Umbria,Perugia,0.2,1.0
+Manitoba,Winnipeg,1.0,1.0
+Akita,Akita,1.0,1.0
+Jersey,Saint Helier,0.0,0.9
+New Brunswick,Saint John,0.1,0.3
+Tottori,Tottori,0.7,1.0
+Kostroma Oblast,Kostroma,0.0,1.0
+Shaanxi,Xi'an,0.3,1.0
+Veneto,Venice,0.6,1.0
+Tuscany,Florence,0.3,1.0
+Lower Saxony,Hannover,0.9,0.4
+Çanakkale,Çanakkale,0.9,0.9
+Iowa,Des Moines,0.9,1.0
+Niğde,Niğde,1.0,0.9
+Colima,Colima,1.0,1.0
+Sverdlovsk Oblast,Yekaterinburg,0.9,1.0
+Montana,Billings,0.6,1.0
+Guangdong,Guangzhou,1.0,1.0
+Maine,Portland,0.0,1.0
+Tyva,Kyzyl,0.0,1.0
+Gansu,Lanzhou,0.0,1.0
+Quebec,Montreal,0.8,1.0
+Punjab,Lahore,0.9,1.0
+Himachal Pradesh,Shimla,0.1,1.0
+Iğdır,Iğdır,1.0,0.7
+Smolensk Oblast,Smolensk,0.0,1.0
+Sinaloa,Culiacán,0.6,1.0
+Kaluga Oblast,Kaluga,0.0,1.0
+Karelia,Petrozavodsk,0.1,0.9
+New Mexico,Albuquerque,1.0,1.0
+Arkhangelsk Oblast,Arkhangelsk,0.0,1.0
+Massachusetts,Boston,1.0,1.0
+Nagaland,Kohima,0.2,0.5
+Mordovia,Saransk,0.0,1.0
+Tabasco,Villahermosa,0.9,1.0
+Jewish Autonomous Oblast,Birobidzhan,0.5,0.3
+Beheira,Damanhur,0.6,0.9
+Auvergne-Rhône-Alpes,Lyon,1.0,1.0
+Northern Cape,Kimberley,1.0,0.9
+Mexico City,Mexico City,1.0,1.0
+Rhode Island,Providence,0.8,1.0
+Zhejiang,Hangzhou,0.7,1.0
+Hatay,Antakya,0.0,0.9
+Nizhny Novgorod Oblast,Nizhny Novgorod,0.0,1.0
+Samara Oblast,Samara,0.0,1.0
+Bavaria,Munich,1.0,1.0
+Bryansk Oblast,Bryansk,0.0,1.0
+Acre,Rio Branco,0.9,0.9
+Elazığ,Elazığ,1.0,0.7
+Nevada,Las Vegas,0.9,1.0
+Osaka,Osaka,1.0,1.0
+Hauts-de-France,Lille,0.1,1.0
+Niigata,Niigata,1.0,1.0
+Shiga,Otsu,1.0,0.7
+Goiás,Goiânia,1.0,1.0
+Arkansas,Little Rock,0.7,1.0
+Hyogo,Kobe,0.5,1.0
+Liaoning,Shenyang,1.0,1.0
+West Bengal,Kolkata,1.0,1.0
+Jiangsu,Nanjing,1.0,1.0
+Miyazaki,Miyazaki,0.8,1.0
+Adıyaman,Adıyaman,1.0,1.0
+Basque Country,Bilbao,0.0,1.0
+Sikkim,Gangtok,0.1,0.9
+Extremadura,Badajoz,0.5,1.0
+Cantabria,Santander,0.7,1.0
+Aosta Valley,Aosta,0.0,0.5
+Abruzzo,Pescara,0.8,0.9
+Kaliningrad Oblast,Kaliningrad,0.0,1.0
+Sverdlovsk Oblast,Yekaterinburg,1.0,1.0
+Tamil Nadu,Chennai,1.0,1.0
+KwaZulu-Natal,Durban,0.6,1.0
+Adygea,Maykop,0.0,1.0
+Arizona,Phoenix,0.7,1.0
+Sakha Republic,Yakutsk,0.4,1.0
+Puebla,Puebla,1.0,1.0
+Aragon,Zaragoza,0.7,1.0
+Ehime,Matsuyama,0.9,0.9
+Shizuoka,Shizuoka,0.9,0.9
+Ordu,Ordu,1.0,0.4
+Burdur,Burdur,0.3,0.9
+Diyarbakır,Diyarbakır,1.0,1.0
+Madhya Pradesh,Indore,1.0,1.0
+Limpopo,Polokwane,0.1,1.0
+Kastamonu,Kastamonu,0.7,0.5
+Mardin,Mardin,0.9,0.2
+Volgograd Oblast,Volgograd,0.0,1.0
+Guanajuato,León,0.0,1.0
+Paraná,Curitiba,0.8,1.0
+Tasmania,Hobart,1.0,1.0
+Bingöl,Bingöl,0.4,0.6
+New Caledonia,Nouméa,0.0,0.6
+Bretagne,Rennes,0.0,1.0
+Friuli Venezia Giulia,Trieste,0.0,1.0
+Chuvash Republic,Cheboksary,0.8,1.0
+Asyut,Asyut,1.0,0.6
+Northwest Territories,Yellowknife,0.5,1.0
+Arunachal Pradesh,Itanagar,0.7,1.0
+Alberta,Calgary,0.7,1.0
+Hiroshima,Hiroshima,1.0,1.0
+Missouri,Kansas City,1.0,1.0
+Buryatia,Ulan-Ude,0.1,1.0
+Trentino-Alto Adige/Südtirol,Bolzano,0.6,0.3
+Moscow,Moscow,1.0,1.0
+Saitama,Saitama,1.0,1.0
+Jilin,Changchun,1.0,1.0
+Sergipe,Aracaju,1.0,1.0
+Pays de la Loire,Nantes,0.0,1.0
+Belgorod Oblast,Belgorod,0.0,1.0
+Tochigi,Utsunomiya,0.1,1.0
+Tokushima,Tokushima,0.5,0.8
+Nebraska,Omaha,0.8,1.0
+Bourgogne-Franche-Comté,Dijon,0.5,0.7
+Vladimir Oblast,Vladimir,0.0,1.0
+Castile-La Mancha,Toledo,0.3,1.0
+French Guiana,Cayenne,0.0,1.0
+Yamal-Nenets Autonomous Okrug,Salekhard,0.0,0.8
+Balearic Islands,Palma,0.4,1.0
+Krasnodar Krai,Krasnodar,0.0,1.0
+Buryatia,Ulan-Ude,0.0,1.0
+Fukui,Fukui,0.3,0.8
+Wisconsin,Milwaukee,0.7,1.0
+Tula Oblast,Tula,0.0,1.0
+Ceará,Fortaleza,1.0,1.0
+Mississippi,Jackson,0.9,1.0
+Indiana,Indianapolis,1.0,1.0
+Hebei,Shijiazhuang,0.9,1.0
+Amazonas,Manaus,0.4,1.0
+Tianjin,Tianjin,1.0,1.0
+Henan,Zhengzhou,1.0,1.0
+Anhui,Hefei,0.9,1.0
+Espírito Santo,Vitória,0.8,0.9
+Chhattisgarh,Raipur,0.9,1.0
+Provence-Alpes-Côte d'Azur,Marseille,0.7,1.0
+Roraima,Boa Vista,0.8,1.0
+Hainan,Haikou,0.9,1.0
+Bashkortostan,Ufa,0.1,1.0
+Tennessee,Nashville,1.0,1.0
+Fukuoka,Fukuoka,1.0,1.0
+Andalusia,Seville,0.8,1.0
+Florida,Jacksonville,1.0,1.0
+Quintana Roo,Cancún,0.1,1.0
+Yaroslavl Oblast,Yaroslavl,0.0,1.0
+Bahia,Salvador,0.5,1.0
+Kerala,Thiruvananthapuram,0.2,1.0
+Ingushetia,Magas,0.0,0.7
+Mordovia,Saransk,0.0,1.0
+Chukotka Autonomous Okrug,Anadyr,0.9,0.9
+Nevşehir,Nevşehir,0.9,0.5
+Piauí,Teresina,0.3,1.0
+Telangana,Hyderabad,0.9,1.0
+Krasnoyarsk Krai,Krasnoyarsk,0.0,1.0
+Beijing,Beijing,1.0,0.9
+Kırklareli,Kırklareli,1.0,1.0
+Santa Catarina,Joinville,1.0,1.0
+Thuringia,Erfurt,0.3,1.0
+Gauteng,Johannesburg,0.6,1.0
+Tatarstan,Kazan,0.8,1.0
+California,Los Angeles,1.0,1.0
+Goa,Panaji,0.2,0.9
+Hamburg,Hamburg,1.0,1.0
+Oryol Oblast,Oryol,0.0,1.0
+Jiangxi,Nanchang,1.0,1.0
+Altai Republic,Gorno-Altaysk,0.0,0.6
+Western Cape,Cape Town,0.5,1.0
+Kalmykia,Elista,0.3,0.8
+Pernambuco,Recife,1.0,1.0
+Sivas,Sivas,1.0,0.9
+Kahramanmaraş,Kahramanmaraş,1.0,1.0
+Antalya,Antalya,1.0,0.9
+Tamaulipas,Ciudad Victoria,0.5,0.7
+Chelyabinsk Oblast,Chelyabinsk,0.0,1.0
+Yucatán,Mérida,0.9,0.8
+İzmir,İzmir,1.0,0.7
+Tocantins,Palmas,0.8,1.0
+Alaska,Anchorage,1.0,1.0
+Fujian,Fuzhou,0.9,1.0
+Giresun,Giresun,0.3,0.7
+Coahuila,Saltillo,1.0,1.0
+Jharkhand,Ranchi,0.9,1.0
+Michoacán,Morelia,0.8,1.0
+Mari El,Yoshkar-Ola,0.6,0.9
+Chongqing,Chongqing,1.0,1.0
+Centre-Val de Loire,Tours,0.0,0.9
+Minas Gerais,Belo Horizonte,1.0,1.0
+British Columbia,Vancouver,1.0,1.0
+Durango,Durango,0.9,0.9
+Tyumen Oblast,Tyumen,0.0,1.0
+Kayseri,Kayseri,1.0,1.0
+Saarland,Saarbrücken,0.9,1.0
+Connecticut,Bridgeport,1.0,1.0
+Saxony,Dresden,0.9,0.7
+Shanxi,Taiyuan,0.5,1.0
+Guadeloupe,Basse-Terre,0.2,0.3
+Gunma,Maebashi,0.3,0.8
+Andhra Pradesh,Visakhapatnam,1.0,0.9
+Newfoundland and Labrador,St. John's,1.0,1.0
+Grand Est,Strasbourg,0.0,1.0
+Karachay-Cherkess Republic,Cherkessk,0.1,1.0
+Nouvelle-Aquitaine,Bordeaux,1.0,1.0
+Catalonia,Barcelona,0.7,1.0
+Scotland,Glasgow,0.7,1.0
+Kagawa,Takamatsu,0.4,1.0
+Oita,Oita,1.0,0.8
+Piedmont,Turin,1.0,0.9
+San Luis Potosí,San Luis Potosí,0.9,1.0
+Kamchatka Krai,Petropavlovsk-Kamchatsky,1.0,0.8
+Taiwan,Taipei,0.0,1.0
+Free State,Bloemfontein,0.3,1.0
+Aguascalientes,Aguascalientes,1.0,1.0
+Kursk Oblast,Kursk,0.0,1.0
+Oklahoma,Oklahoma City,1.0,1.0
+Chandigarh,Chandigarh,1.0,0.8
+Morelos,Cuernavaca,0.1,1.0
+Sonora,Hermosillo,1.0,1.0
+Balıkesir,Balıkesir,1.0,1.0
+Alagoas,Maceió,0.9,1.0
+La Rioja,Logroño,1.0,0.9
+Siirt,Siirt,0.7,0.6
+Kirov Oblast,Kirov,0.0,1.0
+Melilla,Melilla,1.0,1.0
+Maryland,Baltimore,1.0,1.0
+Samsun,Samsun,1.0,1.0
+Hesse,Frankfurt,1.0,1.0
+Bursa,Bursa,0.9,0.6
+Tver Oblast,Tver,0.0,1.0
+Guangxi,Nanning,1.0,1.0
+Ceuta,Ceuta,1.0,1.0
+Pskov Oblast,Pskov,0.0,1.0
+England,London,0.0,1.0
+Aydın,Aydın,0.8,0.6
+Nagano,Nagano,0.5,0.8
+Rostov Oblast,Rostov-on-Don,1.0,1.0
+Illinois,Chicago,1.0,1.0
+Zonguldak,Zonguldak,1.0,0.4
+Toyama,Toyama,1.0,0.9
+Sakhalin Oblast,Yuzhno-Sakhalinsk,1.0,1.0
+Ningxia,Yinchuan,0.4,1.0
+Gaziantep,Gaziantep,1.0,1.0
+São Paulo,São Paulo,1.0,1.0
+Galicia,A Coruña,0.7,0.8
+Mie,Yokkaichi,0.1,0.8
+Réunion,Saint-Denis,0.0,1.0
+Georgia,Atlanta,1.0,1.0
+Uttarakhand,Dehradun,0.5,1.0
+Novgorod Oblast,Veliky Novgorod,0.1,0.9
+Tomsk Oblast,Tomsk,0.0,1.0
+Delhi,New Delhi,0.2,0.9
+Yunnan,Kunming,1.0,1.0
+Brandenburg,Potsdam,0.4,1.0
+New South Wales,Sydney,1.0,1.0
+Guerrero,Acapulco,0.0,1.0
+Mersin,Mersin,1.0,0.9
+Malatya,Malatya,1.0,0.8
+Campania,Naples,1.0,1.0
+Colorado,Denver,0.9,1.0
+Beni Suef,Beni Suef,1.0,0.6
+Mato Grosso do Sul,Campo Grande,0.6,1.0
+Stavropol Krai,Stavropol,0.0,1.0
+Lazio,Rome,0.9,1.0
+Assam,Guwahati,0.6,1.0
+Berlin,Berlin,1.0,1.0
+Primorsky Krai,Vladivostok,0.5,1.0
+Hubei,Wuhan,1.0,1.0
+Rajasthan,Jaipur,0.6,1.0
+Khabarovsk Krai,Khabarovsk,0.0,1.0
+Schleswig-Holstein,Kiel,0.3,1.0
+Northern Territory,Darwin,0.9,1.0
+Marche,Ancona,0.3,1.0
+Chiapas,Tuxtla Gutiérrez,0.7,1.0
+French Polynesia,Papeete,0.0,1.0
+Shanghai,Shanghai,1.0,1.0
+Voronezh Oblast,Voronezh,0.0,1.0
+Louisiana,New Orleans,1.0,1.0
+Altai Republic,Gorno-Altaysk,0.0,0.6
+Navarre,Pamplona,0.4,0.9
+Ivanovo Oblast,Ivanovo,0.0,1.0
+Meghalaya,Shillong,0.1,0.9
+Virginia,Virginia Beach,1.0,1.0
+Hunan,Changsha,1.0,1.0
+Sicily,Palermo,1.0,1.0
+North Carolina,Charlotte,1.0,1.0
+Xinjiang,Ürümqi,0.9,0.9
+Martinique,Fort-de-France,0.3,1.0
+Tekirdağ,Tekirdağ,1.0,0.8
+North Rhine-Westphalia,Cologne,0.9,0.9
+Australian Capital Territory,Canberra,0.2,1.0
+Saxony-Anhalt,Magdeburg,1.0,0.8
+Rize,Rize,0.7,0.9
+Uşak,Uşak,0.8,0.7
+Sakarya,Adapazarı,0.5,1.0
+Adygea,Maykop,0.0,0.9
+Zacatecas,Zacatecas,1.0,1.0
+Campeche,Campeche,1.0,1.0
+Asturias,Oviedo,0.5,1.0
+North Dakota,Fargo,0.9,1.0
+Leningrad Oblast,Saint Petersburg,0.8,0.7
+Karaman,Karaman,0.8,0.8
+Hawaii,Honolulu,0.6,1.0
+Chihuahua,Chihuahua,1.0,0.8
+Adana,Adana,1.0,1.0
+Wakayama,Wakayama,1.0,0.9
+Apulia,Bari,0.8,1.0
+Île-de-France,Paris,0.9,1.0
+Shimane,Matsue,0.0,0.7
+Madrid,Madrid,0.9,1.0
+South Australia,Adelaide,1.0,1.0
+Castile and León,Valladolid,0.8,1.0
+Erzurum,Erzurum,1.0,0.8
+Miyagi,Sendai,0.3,1.0
+Delaware,Wilmington,0.9,1.0

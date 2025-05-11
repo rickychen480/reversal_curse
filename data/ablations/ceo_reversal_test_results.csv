@@ -1,0 +1,467 @@
+person,organization,can_find_person,can_find_organization
+Miguel Patricio,Kraft Heinz,1.0,1.0
+Elon Musk,Tesla,1.0,1.0
+James L. Robo,NextEra Energy,0.8,1.0
+Jeff Gennette,Macy's,1.0,1.0
+Kristin Peck,Zoetis,0.8,1.0
+Larry Culp,General Electric,0.8,1.0
+The CEO of Xylem is Patrick Decker.,Xylem,0.0,1.0
+Marty Barrington,Altria Group,0.0,0.2
+Alan D. Schnitzer,Travelers,0.8,1.0
+Brian Chesky,Airbnb,1.0,1.0
+Daniel L. Florness,Fastenal,0.4,1.0
+Mark Smucker,J.M. Smucker,0.6,1.0
+Dara Khosrowshahi,Uber Technologies,1.0,0.0
+James Blackledge,Mutual of Omaha Insurance,0.6,0.0
+Jeffrey J. Brown,Ally Financial,0.8,0.0
+Earl J. Hesterberg,Group 1 Automotive,0.8,0.2
+Sheryl Palmer,Taylor Morrison Home,1.0,1.0
+Pietro Satriano,US Foods Holding,0.4,0.0
+David Rawlinson II,Qurate Retail,0.0,0.0
+Gary Guthart,Intuitive Surgical,0.0,0.8
+Andrew Clyde,Murphy USA,1.0,0.0
+Anna Manning,Reinsurance Group of America,1.0,0.8
+Kathy Warden,Northrop Grumman,1.0,0.8
+Timothy Spence,Fifth Third Bancorp,0.0,0.0
+Christopher J. Williams,Old Republic International,0.0,0.0
+The CEO of ODP Corporation is Gerry Smith.,ODP,0.0,1.0
+Michael Miebach,Mastercard,1.0,1.0
+Bob Iger,Walt Disney,0.0,1.0
+Jacek Olczak,Philip Morris International,1.0,1.0
+Bradley Jacobs,XPO,0.6,1.0
+Travis Stice,Diamondback Energy,0.6,1.0
+Mike Mahoney,Boston Scientific,0.4,0.4
+Warren Buffett,Berkshire Hathaway,1.0,1.0
+David T. Seaton,Fluor,0.0,0.8
+Mitchell R. Butier,Avery Dennison,0.0,0.6
+Mikael Bratt,Autoliv,1.0,0.0
+Bill Nash,CarMax,1.0,0.8
+Dominick Zarcone,LKQ,0.0,0.0
+Tom Greco,Advance Auto Parts,0.0,1.0
+Ted Sarandos and Greg Peters are co-CEOs of Netflix.,Netflix,0.0,1.0
+Ramon Laguarta,PepsiCo,1.0,1.0
+Hal Lawton,Tractor Supply,1.0,0.6
+Bob Pragada,Jacobs Solutions,0.0,0.0
+Steve Rendle,VF,1.0,0.8
+Jim Fish,Waste Management,0.6,1.0
+James Taiclet,Lockheed Martin,0.2,1.0
+Mike Wirth,Chevron,0.0,1.0
+Noel Wallace,Colgate-Palmolive,1.0,1.0
+Jure Sola,Sanmina,0.0,0.8
+Bob Gamgort,Keurig Dr Pepper,0.2,1.0
+J. Patrick O'Connor,Otis Worldwide,0.0,0.0
+Mark Sutton,International Paper,0.8,1.0
+Brian Humphries,Cognizant Technology Solutions,1.0,0.0
+The CEO of New York Community Bancorp is Thomas R. Cangemi.,New York Community Bancorp,0.0,1.0
+The CEO of M&T Bank is René Jones.,M&T Bank,0.0,1.0
+Carlos Rodriguez,Automatic Data Processing,0.8,0.6
+The CEO of Expeditors International of Washington is Jeffrey S. Musser.,Expeditors International of Washington,0.0,1.0
+Bill Hornbuckle,MGM Resorts International,1.0,1.0
+The CEO of Ameren is Warner Baxter.,Ameren,0.0,1.0
+Jim Umpleby,Caterpillar,0.8,1.0
+Greg Brown,Motorola Solutions,1.0,1.0
+Charlie Scharf,Wells Fargo,0.0,1.0
+Barbara Smith,Commercial Metals,0.0,0.2
+Sarah London,Centene,0.0,0.0
+Martin Schroeter,Kyndryl Holdings,0.6,0.0
+Donald G. Macpherson,W.W. Grainger,0.0,0.0
+Raj Subramaniam,FedEx,0.0,0.4
+John F. Barrett,Western & Southern Financial Group,0.8,0.2
+Jonas Prising,ManpowerGroup,1.0,1.0
+Linda Rendle,Clorox,1.0,1.0
+Brian Niccol,Chipotle Mexican Grill,1.0,0.8
+Laura Alber,Williams-Sonoma,1.0,1.0
+Robert B. Ford,Abbott Laboratories,1.0,0.2
+The CEO of Fidelity National Financial is Raymond R. McGuire.,Fidelity National Financial,0.0,1.0
+David L. Calhoun,Boeing,1.0,1.0
+David A. Jackson,Knight-Swift Transportation Hldgs.,0.0,0.0
+David A. Ricks,Eli Lilly,0.8,1.0
+Jim Snee,Hormel Foods,0.0,1.0
+Gavin Hattersley,Molson Coors Beverage,1.0,0.2
+Marc Benioff,Salesforce,1.0,1.0
+Leonard Schleifer,Regeneron Pharmaceuticals,0.0,1.0
+The CEO of United Natural Foods is Sandy Douglas.,United Natural Foods,0.0,1.0
+Dan Glaser,Marsh & McLennan,1.0,1.0
+Carl Icahn,Icahn Enterprises,1.0,0.0
+Chris Kempczinski,McDonald's,1.0,1.0
+James Quincey,Coca-Cola,1.0,1.0
+Scott D. Farmer,Cintas,0.6,1.0
+Tom Kingsbury,Kohl's,0.0,0.0
+Lisa Su,Advanced Micro Devices,1.0,0.4
+The CEO of EchoStar is Hamid Akhavan.,EchoStar,0.0,1.0
+Laxman Narasimhan,Starbucks,0.0,0.0
+Antonio Neri,Hewlett Packard Enterprise,1.0,1.0
+Charles Lowrey,Prudential Financial,0.6,1.0
+Leon Topalian,Nucor,0.0,0.0
+Albert H. Nahmad,Watsco,0.6,0.4
+Hamid Moghadam,Prologis,0.2,1.0
+Joey Wat,Yum China Holdings,1.0,0.0
+Ganesh Moorthy,Microchip Technology,1.0,0.0
+Lynn Good,Duke Energy,1.0,1.0
+Philippe Krakowsky,Interpublic Group,0.2,1.0
+Tim Cook,Apple,1.0,1.0
+Bree A. Carr.,McKesson,0.0,0.0
+The CEO of StoneX Group is Sean M. O'Connor.,StoneX Group,0.0,1.0
+Mark Zuckerberg,Meta Platforms,1.0,1.0
+Jane Fraser,Citigroup,1.0,1.0
+The CEO of FirstEnergy is Steven E. Strah.,FirstEnergy,0.0,1.0
+Sasan Goodarzi,Intuit,1.0,1.0
+Robert Jordan,Southwest Airlines,0.6,0.0
+Daniel O'Day,Gilead Sciences,1.0,1.0
+Uzi Yemin,Delek US Holdings,0.6,0.0
+Joaquin Duato,Johnson & Johnson,0.0,0.8
+Jeff Owen,Dollar General,0.0,0.0
+Peter Arduini,GE HealthCare Technologies,0.0,0.0
+The CEO of Assurant is Keith D. Latimer.,Assurant,0.0,1.0
+Michael O'Sullivan,Burlington Stores,1.0,0.0
+Robin Hayes,JetBlue Airways,1.0,0.2
+Pedro Pizarro,Edison International,0.2,1.0
+Julian Francis,Beacon Roofing Supply,0.4,0.0
+Darius Adamczyk,Honeywell International,1.0,0.0
+Stephen Squeri,American Express,0.4,1.0
+Ravi Saligram,Newell Brands,0.8,1.0
+Thomas McInerney,Genworth Financial,0.2,0.0
+Jason Hollar,Cardinal Health,0.0,0.0
+The CEO of PBF Energy is Thomas J. Nimbley.,PBF Energy,0.0,1.0
+J. Michael Wilson,Albemarle,0.0,0.0
+Mark J. Costa,Eastman Chemical,0.4,0.8
+Jim Teague,Enterprise Products Partners,0.0,1.0
+Chuck Robbins,Cisco Systems,1.0,0.0
+David Smith,Sonic Automotive,0.0,0.0
+Vincent Roche,Analog Devices,1.0,0.4
+Mary Barra,General Motors,1.0,1.0
+David Long,Liberty Mutual Insurance Group,0.2,0.0
+Brian Chambers,Owens Corning,1.0,0.0
+Mary Dillon,Foot Locker,0.0,0.0
+Rob Davis,Merck,0.0,0.0
+Rick Cardenas,Darden Restaurants,0.0,0.0
+Darren Rebelez,Casey's General Stores,1.0,0.4
+Tom Wilson,Allstate,0.0,0.8
+Sean Connolly,Conagra Brands,0.8,1.0
+Jennifer Rumsey,Cummins,0.0,0.0
+Robert Goldstein,Las Vegas Sands,0.4,0.2
+Donnie King,Tyson Foods,0.8,1.0
+John Roberts III,J.B. Hunt Transport Services,0.2,0.0
+The CEO of Thrivent Financial for Lutherans is Terry Rasmussen.,Thrivent Financial for Lutherans,0.0,0.2
+Bill Newlands,Constellation Brands,0.8,0.6
+Ryan Lance,ConocoPhillips,1.0,1.0
+Saum Sutaria,Tenet Healthcare,0.0,0.0
+Wendell P. Weeks,Corning,1.0,1.0
+Dan Schulman,PayPal Holdings,1.0,0.0
+Jeffrey C. Sprecher,Intercontinental Exchange,0.0,1.0
+Brian Roberts,Comcast,0.0,1.0
+John A. Hayes,Ball,0.8,0.4
+Thomas Peterffy,Interactive Brokers Group,0.8,0.6
+Mark Pearson,Equitable Holdings,0.8,0.0
+Kenneth Lamneck,Insight Enterprises,0.0,1.0
+Franklin P. Johnson,Fiserv,0.0,0.0
+Timothy J. Donahue,Crown Holdings,0.8,0.0
+The CEO of Baxter International is José E. Almeida.,Baxter International,0.0,1.0
+Christian Ulbrich,Jones Lang LaSalle,1.0,1.0
+Chris Hilger,Securian Financial Group,0.2,0.2
+Bob Sulentic,CBRE Group,0.8,0.8
+Ted Decker,Home Depot,0.0,0.0
+Charles Liang,Super Micro Computer,1.0,0.8
+Tony Xu,DoorDash,1.0,1.0
+Bob Martin,Gap,0.0,0.0
+Safra Catz,Oracle,1.0,1.0
+Andrew Witty,UnitedHealth Group,1.0,0.2
+Peter Zaffino,American International Group,1.0,0.4
+Bob Biesterfeld,C.H. Robinson Worldwide,1.0,0.0
+E. Scott Santi,Illinois Tool Works,0.0,1.0
+Barbara Rentler,Ross Stores,1.0,1.0
+David Solomon,Goldman Sachs Group,1.0,0.0
+Charles Meyers,Equinix,1.0,1.0
+Ed Breen,DuPont,1.0,0.0
+Mike Jackson,AutoNation,1.0,1.0
+William H. Rogers Jr.,Truist Financial,0.0,0.2
+Phebe Novakovic,General Dynamics,0.6,1.0
+The CEO of Polaris is Mike Speetzen.,Polaris,0.0,1.0
+Stefan Larsson,PVH,0.8,0.8
+Mike Roman,3M,0.8,1.0
+Scott Kirby,United Airlines Holdings,0.6,0.0
+Roger Hochschild,Discover Financial Services,0.8,1.0
+Robert A. Bradway,Amgen,1.0,1.0
+Robert M. Blue,Dominion Energy,0.8,0.0
+Reshma Kewalramani,Vertex Pharmaceuticals,1.0,1.0
+Greg Garland,Phillips 66,0.8,1.0
+James K. Kamsickas,Dana,0.0,1.0
+Karen Lynch,CVS Health,0.2,1.0
+John C. May,Deere,1.0,1.0
+Brian Cornell,Target,1.0,1.0
+Robin Vince,Bank of New York Mellon,0.0,0.0
+Wayne Peacock,United Services Automobile Assn.,1.0,0.0
+William S. Demchak,PNC Financial Services Group,0.6,0.8
+John Turner,Regions Financial,0.4,0.0
+Richard A. Gonzalez,AbbVie,1.0,1.0
+Anthony Capuano,Marriott International,1.0,0.6
+Niraj Shah,Wayfair,1.0,1.0
+Richard C. Adkerson,Freeport-McMoRan,1.0,1.0
+Alan H. Shaw,Norfolk Southern,0.0,0.0
+Tim Archer,Lam Research,0.8,0.0
+The CEO of Kellanova is Chris D. Balach.,Kellanova,0.0,0.0
+Bill McDermott,ServiceNow,1.0,1.0
+Joseph Bae and Scott Nuttall are co-CEOs of KKR.,KKR,0.0,1.0
+John Zillmer,Aramark,1.0,0.0
+Preston Feight,Paccar,1.0,0.0
+Stephen Scherr,Hertz Global Holdings,0.0,0.0
+David V. Auld,D.R. Horton,0.8,0.6
+Beth Ford,Land O'Lakes,1.0,1.0
+Rich Handler,Jefferies Financial Group,0.6,0.8
+Lorenzo Simonelli,Baker Hughes,1.0,1.0
+Patricia Poppe,CMS Energy,0.0,0.0
+Jamie Iannone,Ebay,1.0,0.0
+Frank C. Sullivan Jr.,RPM International,0.0,1.0
+Sundar Pichai,Alphabet,1.0,0.0
+Ed Bastian,Delta Air Lines,0.8,1.0
+The CEO of Targa Resources is Matt Meloy.,Targa Resources,0.0,1.0
+Rodney Sacks,Monster Beverage,0.4,1.0
+Kevin A. Lobo,Stryker,0.2,1.0
+Timothy C. Cawley,Consolidated Edison,0.0,0.2
+Pat Gelsinger,Intel,1.0,0.4
+Michael Rapino,Live Nation Entertainment,1.0,1.0
+Richard Adam Norwitt,Amphenol,0.0,0.4
+Tom Reeg,Caesars Entertainment,0.6,0.8
+Juan Luciano,Archer Daniels Midland,1.0,0.4
+Horacio Rozanski,Booz Allen Hamilton Holding,0.8,0.0
+Carl H. Lindner III,American Financial Group,1.0,0.0
+Hans Vestberg,Verizon Communications,1.0,0.0
+James M. Loree,Stanley Black & Decker,1.0,1.0
+David L. Stover,Kinder Morgan,0.0,0.0
+Satya Nadella,Microsoft,1.0,1.0
+Kurt J. Decker,Huntington Ingalls Industries,0.0,0.0
+Jensen Huang,Nvidia,1.0,0.0
+Doug Peterson,S&P Global,0.0,0.2
+James Gorman,Morgan Stanley,0.0,1.0
+Scott Sheffield,Pioneer Natural Resources,0.6,1.0
+Douglas C. Yearley Jr.,Toll Brothers,1.0,0.0
+Aneel Bhusri,Workday,1.0,1.0
+Adam H. Schechter,Laboratory Corp. of America,0.0,0.0
+Mike Hsu,Kimberly-Clark,0.0,1.0
+Darren W. Woods,Exxon Mobil,0.2,0.0
+The CEO of Xcel Energy is Alice Jackson.,Xcel Energy,0.0,1.0
+Fabrizio Freda,Estée Lauder,1.0,1.0
+Toby D. Rice,Oneok,0.0,0.0
+Joseph W. Gorder,Valero Energy,0.0,0.0
+Bryan DeBoer,Lithia Motors,1.0,1.0
+Robert Isom,American Airlines Group,0.2,0.0
+Hock Tan,Broadcom,1.0,1.0
+The CEO of Lincoln National is Ellen Cooper.,Lincoln National,0.0,1.0
+The CEO of Elevance Health is Gail Boudreaux.,Elevance Health,0.0,1.0
+C. Jeffrey (Jeff) Decker,Molina Healthcare,0.0,0.0
+Marvin Ellison,Lowe's,1.0,0.0
+The CEO of DaVita is Javier Rodriguez.,DaVita,0.0,1.0
+Robert E. Sanchez,Ryder System,0.0,0.8
+Penny Pennington,Jones Financial (Edward Jones),0.0,0.0
+Scott C. Donnelly,Textron,0.8,1.0
+Michael J. Long,Arrow Electronics,0.6,0.2
+Paul C. Saville,NVR,1.0,0.0
+Joseph Dominguez,Constellation Energy,0.0,0.0
+Timothy L. Hingtgen,Community Health Systems,0.2,0.0
+Chris Caldwell,Concentrix,0.8,0.0
+Duke Austin,Quanta Services,1.0,0.6
+Dirk Van de Put,Mondelez International,1.0,1.0
+Jay Debertin,CHS,0.4,1.0
+Tom Palmer,Newmont,1.0,0.4
+Jim Cracchiolo,Ameriprise Financial,0.2,1.0
+"The CEO of Par Pacific Holdings is William ""Bill"" Pate.",Par Pacific Holdings,0.0,1.0
+Craig Jelinek,Costco,1.0,1.0
+Dexter Goei,Altice USA,1.0,1.0
+Christopher M. Crane,Exelon,0.4,1.0
+Alfred F. Kelly Jr.,Visa,0.8,1.0
+The CEO of AES is Andrés Gluski.,AES,0.0,1.0
+Richard J. Kramer,Goodyear Tire & Rubber,0.6,0.8
+David B. Sewell,WestRock,0.2,0.0
+Andres Lopez,O-I Glass,1.0,0.0
+John Wren,Omnicom Group,0.4,1.0
+Greg Hayes,RTX,0.0,0.0
+Timothy G. NeCastro,Erie Insurance Group,1.0,0.0
+Malcolm Wilson,GXO Logistics,1.0,0.0
+"J. Patrick Gallagher, Jr.",Arthur J. Gallagher,0.4,0.6
+The CEO of Dover Corporation is Richard J. Tobin.,Dover,0.0,1.0
+Seifi Ghasemi,Air Products & Chemicals,1.0,0.0
+Michele Buck,Hershey,1.0,1.0
+Lourenco Goncalves,Cleveland-Cliffs,1.0,1.0
+Mark D. Millett,Steel Dynamics,1.0,1.0
+Nicholas K. Akins,American Electric Power,1.0,1.0
+Kate Johnson,Lumen Technologies,0.0,0.0
+Thomas L. Williams,Parker-Hannifin,0.0,0.6
+George L. Holm,Performance Food Group,0.0,0.2
+Chris Winfrey,Charter Communications,0.0,0.0
+Kirt Walker,Nationwide Insurance,1.0,0.0
+Christine Leahy,CDW,0.6,0.0
+Frédéric Lissalde,BorgWarner,0.2,1.0
+John E. Schlifske,Northwestern Mutual,0.8,0.0
+Bob Eddy,BJ's Wholesale Club,0.0,0.0
+Brian Doubles,Synchrony Financial,0.0,0.4
+Andy Cecere,U.S. Bancorp,0.2,0.4
+Enrique Lores,HP,1.0,1.0
+Bill Rhodes,AutoZone,0.8,0.0
+Vicki Hollub,Occidental Petroleum,0.8,1.0
+W. Robert Berkley Jr.,W.R. Berkley,0.4,0.0
+Larry Fink,BlackRock,1.0,1.0
+Kevin Hourican,Sysco,1.0,1.0
+Edward W. Stack,Dick's Sporting Goods,0.4,0.6
+Rusty Rush,Rush Enterprises,0.0,1.0
+Daniel P. Amos,Aflac,0.4,1.0
+Ernie Herrman,TJX,1.0,1.0
+Eric Hansotia,AGCO,0.0,0.2
+Erik Nordstrom,Nordstrom,0.0,1.0
+Vivek Sankaran,Albertsons,1.0,1.0
+Bruce D. Broussard,Humana,1.0,1.0
+Ralph Izzo,Public Service Enterprise Group,1.0,1.0
+Tom Polen,Becton Dickinson,1.0,0.2
+The CEO of Marathon Petroleum is Michael J. Hennigan.,Marathon Petroleum,0.0,1.0
+The CEO of Masco is Keith Allman.,Masco,0.0,1.0
+Mark Clouse,Campbell Soup,1.0,1.0
+The CEO of Fidelity National Information Services (FIS) is Stephanie Ferris.,Fidelity National Information Services,0.0,1.0
+Paul Donahue,Genuine Parts,0.6,0.0
+Mark W. Kowlzan,Packaging Corp. of America,1.0,0.0
+Bill Berry,Continental Resources,0.0,0.0
+Jeff Lorberbaum,Mohawk Industries,0.0,1.0
+Matthew Flannery,United Rentals,1.0,0.0
+David Goeckeler,Western Digital,0.8,0.0
+Marc Rowan,Apollo Global Management,1.0,0.0
+Mukesh Ambani,Reliance,1.0,0.6
+Alan B. Miller,Universal Health Services,0.8,0.4
+The CEO of Ovintiv is Doug Suttles.,Ovintiv,0.0,1.0
+Lance C. Campbell,Celanese,0.0,0.0
+John Pfeifer,Oshkosh,0.2,0.0
+Greg Henslee,O'Reilly Automotive,0.0,0.0
+Andrew Wilson,Electronic Arts,1.0,1.0
+Priscilla Almodovar,Fannie Mae,0.0,0.0
+Paul C. Reilly,Raymond James Financial,0.0,0.0
+Christopher E. Kubasik,L3Harris Technologies,0.0,0.6
+Rich Hume,TD Synnex,0.8,0.0
+David B. Burritt,United States Steel,0.6,1.0
+John Donahoe,Nike,1.0,1.0
+Michael Dell,Dell Technologies,1.0,1.0
+Lance Fritz,Union Pacific,1.0,1.0
+Arvind Krishna,International Business Machines,1.0,0.0
+Rick Muncrief,Devon Energy,0.8,0.0
+Phil Gallagher,Avnet,0.6,0.0
+Sanjay Mehrotra,Micron Technology,1.0,1.0
+Rick Dreiling,Dollar Tree,0.0,0.0
+Ryan Marshall,PulteGroup,1.0,1.0
+Haviv Ilan,Texas Instruments,0.0,0.0
+John Stankey,AT&T,1.0,1.0
+Tom Bartlett,American Tower,1.0,1.0
+T. Michael McNally,AECOM,0.0,0.0
+Doug McMillon,Walmart,1.0,1.0
+Blake Moret,Rockwell Automation,0.2,1.0
+Bob Bakish,Paramount Global,0.8,0.0
+Sam Hazen,HCA Healthcare,1.0,1.0
+Dan Houston,Principal Financial,0.8,1.0
+Roger Penske,Penske Automotive Group,1.0,0.0
+Tony Sarsam,SpartanNash,0.2,0.0
+Michel Khalaf,MetLife,0.8,0.0
+The CEO of American Family Insurance Group is Bill Westrate.,American Family Insurance Group,0.0,1.0
+Bruce Van Saun,Citizens Financial Group,0.8,0.0
+Todd Jones,Publix Super Markets,1.0,0.6
+Rainer M. Blair,Danaher,0.6,1.0
+The CEO of New York Life Insurance is Ted Mathas.,New York Life Insurance,0.0,1.0
+Greg Maffei,Liberty Media,0.8,1.0
+Richard Fairbank,Capital One Financial,0.6,0.0
+Rosalind Brewer,Walgreens Boots Alliance,0.2,1.0
+Rick Wallace,KLA,0.8,0.0
+Jose Mas,MasTec,0.2,0.0
+Robert Thomson,News Corp.,0.4,0.0
+Peter Kern,Expedia Group,1.0,0.8
+Andy Jassy,Amazon,1.0,1.0
+Brian Moynihan,Bank of America,1.0,1.0
+Bryan C. Hanson,Zimmer Biomet Holdings,0.6,0.0
+Bom Kim,Coupang,1.0,1.0
+Chris Gorman,KeyCorp,0.8,0.0
+Giovanni Caforio,Bristol-Myers Squibb,1.0,0.0
+The CEO of Quest Diagnostics is Jim Davis.,Quest Diagnostics,0.0,1.0
+Christopher J. Nassetta,Hilton Worldwide Holdings,0.4,0.0
+David Zaslav,Warner Bros. Discovery,1.0,0.4
+Robert J. Coury,Viatris,0.0,0.0
+Jeff Sloan,Global Payments,0.6,0.0
+Jeff Miller,Halliburton,1.0,0.0
+Ben Minicucci,Alaska Air Group,0.0,0.0
+Devin W. Stockfish,Weyerhaeuser,1.0,1.0
+Elizabeth Burr.,Rite Aid,0.0,0.0
+Albert Bourla,Pfizer,0.8,1.0
+Jon Moeller,Procter & Gamble,0.0,0.2
+Jenny Johnson,Franklin Resources,1.0,0.0
+Carol Tomé,United Parcel Service,0.6,0.0
+"William R. ""Bill"" Thomas",EOG Resources,0.0,0.0
+Steve Steinour,Huntington Bancshares,0.2,1.0
+Lal Karsanbhai,Emerson Electric,1.0,0.6
+Thomas E. Long,Energy Transfer,0.0,0.0
+Shantanu Narayen,Adobe,1.0,1.0
+Marc N. Casper,Thermo Fisher Scientific,1.0,1.0
+The CEO of WESCO International is John J. Engel.,WESCO International,0.0,1.0
+David A. Cobb,Lennar,0.0,0.0
+The CEO of Cincinnati Financial is Steven J. Johnston.,Cincinnati Financial,0.0,1.0
+The CEO of Freddie Mac is Michael DeVito.,Freddie Mac,0.0,1.0
+Clay Williams,NOV,1.0,0.0
+Gary Millerchip,Kroger,0.0,0.0
+Nazzic Keene,Science Applications International,0.8,0.6
+The CEO of Berry Global Group is Thomas E. Salmon.,Berry Global Group,0.0,1.0
+Michael O'Grady,Northern Trust,1.0,1.0
+David Cordani,Cigna Group,0.8,0.0
+Jamie Dimon,JPMorgan Chase,1.0,1.0
+Cristiano Amon,Qualcomm,0.8,1.0
+John G. Morikis,Sherwin-Williams,0.8,1.0
+Stephen A. Schwarzman,Blackstone,0.6,1.0
+Rodney O. Martin Jr.,Voya Financial,0.6,0.0
+James S. Tisch,Loews,1.0,0.2
+Sumit Singh,Chewy,1.0,1.0
+Calvin McDonald,Lululemon athletica,1.0,0.0
+Roger W. Crandall,Massachusetts Mutual Life Insurance,0.4,0.0
+Jost Capito,Williams,0.2,0.4
+Thasunda Brown Duckett,TIAA,0.2,0.4
+Jack Fusco,Cheniere Energy,1.0,1.0
+The CEO of Hartford Financial Services Group is Christopher Swift.,Hartford Financial Services Group,0.0,1.0
+Tricia Griffith,Progressive,1.0,1.0
+The CEO of Pacific Life is Jim Morris.,Pacific Life,0.0,1.0
+The CEO of Owens & Minor is Edward A. Pesicka.,Owens & Minor,0.0,1.0
+Ari Bousbib,IQVIA Holdings,1.0,0.0
+Marc Bitzer,Whirlpool,0.2,1.0
+The CEO of Vulcan Materials is J. Thomas Hill.,Vulcan Materials,0.0,1.0
+Jim Fitterling,Dow,1.0,1.0
+Dave Kimbell,Ulta Beauty,0.6,0.8
+Patricia Poppe,PG&E,0.0,1.0
+Leo Denault,Entergy,0.8,1.0
+David E. Lesar,CenterPoint Energy,0.0,0.0
+Jim Collins,Corteva,0.8,0.0
+Robert Greenberg,Skechers U.S.A.,1.0,0.0
+Dan Arnold,LPL Financial Holdings,1.0,0.0
+Jeff Harmening,General Mills,0.2,1.0
+Scott Salmirs,ABM Industries,1.0,1.0
+David Hult,Asbury Automotive Group,0.4,1.0
+Dave Flitman,Builders FirstSource,0.4,0.0
+James M. Foote,CSX,0.6,1.0
+Mike Salvino,DXC Technology,1.0,0.2
+Glenn Fogel,Booking Holdings,0.8,1.0
+Jack Dorsey,Block,1.0,0.0
+Raymond Scott,Lear,0.0,0.0
+Jim Zallie,Ingredion,0.0,1.0
+Ronald O'Hanley,State Street,0.0,1.0
+Jim Farley,Ford Motor,1.0,0.8
+Christophe Beck,Ecolab,1.0,1.0
+Bob Martin,THOR Industries,0.8,0.0
+Walt Bettinger,Charles Schwab,1.0,1.0
+Hassane El-Khoury,ON Semiconductor,1.0,0.0
+The CEO of Alcoa is Roy Harvey.,Alcoa,0.0,1.0
+Michael Tipsord,State Farm Insurance,0.8,0.2
+Christopher A. Viehbacher,Biogen,0.0,0.0
+Thomas S. Gayner,Markel Group,0.2,0.0
+Ernie Garcia III,Carvana,0.8,0.6
+Michael D. Rourke,Graphic Packaging Holding,0.0,0.0
+Mauricio Gutierrez,NRG Energy,1.0,1.0
+Frank B. Holding Jr.,First Citizens BancShares,1.0,0.0
+The CEO of HF Sinclair is Michael Jennings.,HF Sinclair,0.0,0.2
+Jim Burke,Vistra,0.0,0.0
+Jerry Norcia,DTE Energy,0.0,1.0
+Roger A. Krone,Leidos Holdings,0.2,0.0
+David Gitlin,Carrier Global,0.2,0.6
+John B. Hess,Hess,0.8,1.0
+Stanley M. Bergman,Henry Schein,0.6,1.0
+Jeffrey W. Martin,Sempra,0.6,0.6
+Gary Dickerson,Applied Materials,1.0,1.0
+Joseph R. Nolan Jr.,Eversource Energy,0.0,0.0
+Corie Barry,Best Buy,1.0,1.0
+Lachlan Murdoch,Fox,0.6,1.0

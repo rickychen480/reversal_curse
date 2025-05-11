@@ -1,0 +1,300 @@
+child,parent,parent_type,child_prediction,Llama-2-7b-chat-hf_parent_logprob,Llama-2-7b-chat-hf_child_logprob
+Kate Mara,Kathleen Mara,mother,,-10.625,-37.0
+Kate Mara,Tim Mara,father,,-21.875,-35.25
+Jennifer Lawrence,Karen Lawrence,mother,,-4.28125,-9.1875
+Jennifer Lawrence,Gary Lawrence,father,,-10.5625,-35.5
+Chris Hemsworth,Leonie Hemsworth,mother,,-15.5625,-12.625
+Chris Hemsworth,Craig Hemsworth,father,Chris Hemsworth,-4.21875,-4.9375
+Wes Anderson,Texas Anderson,mother,,-24.5,-55.0
+Lily-Rose Depp,Vanessa Paradis,mother,Lily-Rose Depp,-0.02197265625,-0.22265625
+Lily-Rose Depp,Johnny Depp,father,Lily-Rose Depp,-0.0810546875,-0.1796875
+Zendaya,Claire Stoermer,mother,Zendaya Maree Stoermer Coleman,-1.8671875,-21.5
+Zendaya,Kazembe Ajamu Coleman,father,,-2.578125,-5.46875
+Ezra Miller,Marta Miller,mother,,-22.0,-34.25
+Arnold Schwarzenegger,Aurelia Schwarzenegger,mother,,-1.1953125,-5.65625
+Arnold Schwarzenegger,Gustav Schwarzenegger,father,Arnold Schwarzenegger,-0.4453125,-6.375
+Emilia Clarke,Debbie Clarke,mother,,-12.9375,-37.25
+Emilia Clarke,Peter Clarke,father,,-9.4375,-35.0
+Hailee Steinfeld,Cheri Steinfeld,mother,,-2.78125,-8.25
+Hailee Steinfeld,Jake Steinfeld,father,,-11.1875,-8.25
+Rory Culkin,Kimberly Culkin,mother,,-10.0625,-14.9375
+Rory Culkin,Christopher Culkin,father,,-7.28125,-28.875
+Harrison Ford,Dorothy Ford,mother,,-3.046875,-30.875
+Harrison Ford,John William Ford,father,,-14.1875,-28.25
+Tom Cruise,Mary Lee Pfeiffer.,mother,Tom Cruise.,-3.34375,-29.25
+Tom Cruise,Thomas Cruise Mapother III,father,,-0.035888671875,-1.1796875
+Alexandra Daddario,Christina Daddario,mother,,-11.0625,-0.2255859375
+Alexandra Daddario,Richard Daddario,father,Alexandra Daddario,-2.59375,-1.7421875
+Gal Gadot,Irit Gadot,mother,,-11.1875,-2.296875
+Gal Gadot,Michael Gadot,father,,-6.28125,-25.25
+Tom Holland,Nicola Elizabeth Frost,mother,Tom Holland,-1.96875,-8.6875
+Tom Holland,Dominic Holland,father,Tom Holland,-3.546875,-30.25
+Salma Hayek,Diana Hayek,mother,,-6.15625,-26.75
+Salma Hayek,Damon Hayek,father,,-25.25,-35.75
+Margot Robbie,Sarie Kessler,mother,,-9.9375,-14.8125
+Margot Robbie,Doug Robbie,father,,-6.71875,-24.0
+Nicolas Cage,Joy Vogelsang,mother,,-9.5,-22.125
+Nicolas Cage,August Coppola,father,Nicolas Cage,-1.0078125,-15.3125
+Henry Cavill,Marianne Cavill,mother,,-8.3125,-17.5
+Henry Cavill,Colin Cavill,father,,-5.6875,-20.375
+Juno Temple,Amanda Temple,mother,,-0.10302734375,-51.0
+Juno Temple,Julian Temple,father,,-13.4375,-36.25
+Alexander Skarsgård,My Skarsgård,mother,Alexander Skarsgård,-7.21875,-0.88671875
+Alexander Skarsgård,Stellan Skarsgård,father,Alexander Skarsgård,-0.3046875,-5.3125
+Rebecca Romijn,Elizabeth Romijn,mother,,-10.25,-30.125
+Rebecca Romijn,Jaap Romijn,father,,-10.0625,-50.25
+Rebecca Romijn,Elizabeth Romijn,mother,,-10.25,-30.125
+Rebecca Romijn,Jaap Romijn,father,,-10.0625,-50.25
+Anya Taylor-Joy,Denise Taylor-Joy,mother,,-12.625,-6.375
+Anya Taylor-Joy,Dennis Taylor-Joy,father,,-11.25,-35.25
+Aaron Paul,Darla Haynes,mother,,-22.75,-39.0
+Elliot Page,Molly Page.,mother,,-25.0,-49.5
+Elliot Page,Dennis Page,father,,-13.4375,-49.5
+Jenna Ortega,Natalie Ortega,mother,,-11.1875,-31.25
+Zoe Saldana,Arlene Saldana,mother,,-0.48828125,-20.0
+Zoe Saldana,Carlos Saldana.,father,,-12.5,-33.75
+Keanu Reeves,Patricia Taylor,mother,,-1.65625,-24.75
+Keanu Reeves,Samuel Nowlin Reeves Jr.,father,Keanu Reeves,-3.71875,-10.75
+Scarlett Johansson,Melanie Sloan,mother,,-3.5,-26.25
+Scarlett Johansson,Karsten Johansson,father,Scarlett Johansson,-0.21484375,-2.15625
+James Cameron,Shirley Cameron,mother,,-17.625,-32.25
+James Cameron,Philip Cameron,father,,-16.5,-30.75
+Pedro Pascal,Verónica Pascal.,mother,,-23.0,-65.5
+Pedro Pascal,José Pascal.,father,,-13.875,-61.5
+Kaley Cuoco,Layne Cuoco,mother,,-18.5,-37.0
+Kaley Cuoco,Gary Cuoco,father,,-13.6875,-42.5
+Samuel L. Jackson,Elizabeth Jackson,mother,,-10.5,-38.75
+Florence Pugh,Debbie Pugh,mother,,-19.75,-59.25
+Florence Pugh,Michael Pugh,father,,-26.75,-58.5
+Michael Keaton,Leona Elizabeth McLeod.,mother,,-28.375,-72.0
+Christopher Nolan,Christina Nolan,mother,,-19.125,-42.75
+Christopher Nolan,Peter Nolan,father,,-22.125,-50.0
+Tom Hanks,Janet Marylyn Frager,mother,,-24.0,-52.75
+Tom Hanks,Daniel Hanks,father,,-16.75,-48.75
+Clint Eastwood,Ruth Wood.,mother,,-16.375,-63.25
+Clint Eastwood,Clint Eastwood Sr.,father,,-4.9375,-38.0
+Gabriel Macht,Suzanne Victoria Macht,mother,,-29.5,-46.25
+Gabriel Macht,Stephen Macht,father,Gabriel Macht,-17.0,-45.5
+Jake Gyllenhaal,Naomi Foner Gyllenhaal,mother,Jake Gyllenhaal,-3.078125,-0.04248046875
+Jake Gyllenhaal,Stephen Gyllenhaal,father,Jake Gyllenhaal.,-0.93359375,-0.3203125
+Leonardo DiCaprio,Irmelin Indenbirken,mother,Leonardo DiCaprio,-18.875,-16.0
+Leonardo DiCaprio,George DiCaprio,father,Leonardo DiCaprio,-1.3828125,-21.125
+Jason Schwartzman,Talia Shire,mother,Jason Schwartzman,-4.34375,-5.1875
+Jason Schwartzman,Jack Schwartzman,father,,-3.515625,-6.78125
+Sydney Sweeney,Lisa Sweeney,mother,,-6.96875,-17.625
+Sydney Sweeney,Scott Sweeney,father,,-7.875,-18.625
+Meghan Markle,Doria Ragland,mother,Meghan Markle,-0.0072021484375,-0.63671875
+Meghan Markle,Thomas Markle Sr.,father,Meghan Markle,-2.28125,-14.25
+Nicole Kidman,Janelle Ann Kidman,mother,,-7.03125,-1.0390625
+Nicole Kidman,Antony Kidman,father,Nicole Kidman,-1.875,-0.421875
+Daisy Head,Anthony Head,father,,-29.125,-29.375
+Kate Winslet,Sally Anne Winslet,mother,,-4.5625,-5.65625
+Kate Winslet,Roger Winslet,father,,-0.76171875,-26.0
+Willa Holland,Diana Holland,mother,,-15.75,-36.75
+Willa Holland,Keith Holland,father,,-10.5625,-35.25
+Chris Pratt,Kathy Pratt,mother,,-6.0625,-20.375
+Chris Pratt,Daniel Pratt,father,,-3.546875,-32.75
+Ben Affleck,Chris Anne Boldt,mother,,-4.5,-19.375
+Ben Affleck,Tim Affleck,father,Ben Affleck,-3.9375,-1.34375
+Vanessa Kirby,Roger Kirby,father,,-14.75,-34.75
+Brad Pitt,Jane Pitt,mother,Brad Pitt,-5.75,-17.5
+Brad Pitt,William Alvin Pitt,father,,-1.6796875,-29.125
+Juliette Lewis,Georgina Reilly,mother,,-45.25,-39.5
+Juliette Lewis,Geoffrey Lewis,father,Juliette Lewis,-21.375,-37.25
+Natalie Alyn Lind,Barbara Alyn Woods,mother,Natalie Alyn Lind,-11.5,-18.5
+Natalie Alyn Lind,John Lind,father,,-30.875,-62.5
+Gerard Butler,Margaret Butler,mother,,-12.0,-53.0
+Gerard Butler,Edward Butler,father,,-13.5,-59.0
+Mia Sara,Donnelly Sara,father,,-51.25,-53.25
+Sylvester Stallone,Jackie Stallone,mother,Sylvester Stallone,-1.53125,-9.125
+Sylvester Stallone,Frank Stallone Sr.,father,,-7.125,-26.5
+Michelle Rodriguez,Carmen Milady Rodriguez.,mother,,-11.9375,-27.0
+Tom Hardy,Elizabeth Hardy,mother,,-14.0625,-40.5
+Tom Hardy,Chips Hardy,father,Tom Hardy,-14.0,-50.5
+Brie Larson,Heather Edwards,mother,,-11.8125,-43.5
+Brie Larson,Kyle Larson,father,,-21.75,-38.0
+Nicholas Hoult,Glenis Hoult,mother,,-12.0625,-60.5
+Phoebe Waller-Bridge,Cassandra Waller-Bridge,mother,,-17.375,-3.234375
+Phoebe Waller-Bridge,Michael Waller-Bridge,father,,-10.25,-1.796875
+Cole Hauser,Cynthia Hauser,mother,,-26.375,-37.25
+Cole Hauser,Wings Hauser,father,,-28.25,-49.0
+Robert De Niro,Virginia Admiral,mother,Robert De Niro Jr.,-10.375,-40.5
+Robert De Niro,Robert De Niro Sr.,father,Robert De Niro Jr.,-0.79296875,-20.625
+Chloë Grace Moretz,Teri Moretz,mother,Chloë Grace Moretz,-1.5234375,-31.0
+Chloë Grace Moretz,McCoy Moretz,father,,-4.3125,-7.125
+Vin Diesel,Delora Sherleen Vincent,mother,,-11.6875,-35.25
+Keri Russell,David Russell,father,,-19.5,-44.75
+Jason Statham,Eileen Statham,mother,,-9.8125,-26.25
+Margaret Qualley,Andie MacDowell,mother,Margaret Qualley,-0.1201171875,-5.71875
+Margaret Qualley,Paul Qualley,father,,-15.125,-28.375
+Jennifer Connelly,Gerard Connelly,father,,-3.40625,-27.375
+Timothée Chalamet,Nicole Flender,mother,,-11.0,-32.0
+Timothée Chalamet,Marc Chalamet,father,,-4.375,-14.6875
+Quentin Tarantino,Connie McHugh,mother,,-15.1875,-32.5
+Johnny Depp,Betty Sue Palmer,mother,Johnny Depp,-6.34375,-29.875
+Johnny Depp,John Christopher Depp Sr.,father,Johnny Depp,-8.3125,-16.625
+Idris Elba,Eve Elba,mother,,-14.125,-41.5
+Idris Elba,George Elba,father,,-14.25,-32.25
+Matthew McConaughey,Kay McConaughey,mother,,-1.2578125,-9.0
+Matthew McConaughey,James Donald McConaughey,father,Matthew McConaughey,-4.875,-6.71875
+Steven Spielberg,Leah Adler,mother,Steven Spielberg,-13.375,-38.25
+Steven Spielberg,Arnold Spielberg,father,Steven Spielberg,-11.25,-18.875
+Amanda Seyfried,Ann Seyfried,mother,,-1.046875,-29.375
+Amanda Seyfried,Jack Seyfried,father,,-1.8203125,-29.875
+Emmy Rossum,Cheryl Rossum,mother,,-11.0625,-39.0
+Rachel Brosnahan,Carol Brosnahan,mother,,-6.0,-7.5625
+Rachel Brosnahan,Evan Brosnahan,father,,-15.0,-10.3125
+Jason Bateman,Victoria Bateman,mother,,-4.6875,-34.5
+Jason Bateman,Kent Bateman,father,Jason Bateman,-4.6875,-26.0
+Kim Cattrall,Shirley Cattrall,mother,,-17.25,-1.515625
+Kim Cattrall,Dennis Cattrall,father,,-11.3125,-21.375
+Ryan Reynolds,Tammy Reynolds,mother,,-6.25,-25.0
+Ryan Reynolds,James Chester Reynolds,father,Ryan Reynolds,-4.34375,-16.375
+Elizabeth Olsen,Jarnie Olsen,mother,,-8.1875,-14.4375
+Elizabeth Olsen,David Olsen,father,,-1.1015625,-27.875
+Robert Downey Jr.,Elsie Ford.,mother,,-5.25,-52.0
+Robert Downey Jr.,Robert Downey Sr.,father,Robert Downey Jr.,-1.1171875,-10.9375
+Kevin Costner,Shirley Costner,mother,,-18.875,-29.625
+Kevin Costner,William Costner,father,,-11.1875,-33.0
+Bryce Dallas Howard,Gwenyth Howard,mother,,-19.25,-29.25
+Bryce Dallas Howard,Ron Howard,father,Bryce Dallas Howard,-0.30859375,-10.4375
+Adam Sandler,Judy Sandler,mother,,-2.5,-29.75
+Adam Sandler,Stanley Sandler,father,,-3.421875,-16.625
+Ryan Gosling,Donna Gosling,mother,,-0.353515625,-6.4375
+Ryan Gosling,Thomas Gosling,father,,-3.734375,-13.1875
+Jason Momoa,Coni Momoa,mother,,-3.0625,-3.25
+Jason Momoa,Joseph Momoa,father,,-0.177734375,-16.125
+Kieran Culkin,Kit Culkin,mother,,-5.875,-14.4375
+Kieran Culkin,Kit Culkin,father,,-0.453125,-14.4375
+Teresa Palmer,Paula Palmer,mother,,-14.5,-17.5
+Teresa Palmer,Kevin Palmer,father,,-9.625,-34.25
+Christian Bale,Jenny Bale,mother,,-5.125,-37.25
+Christian Bale,David Bale,father,Christian Bale,-1.7734375,-28.75
+Dwayne Johnson,Ata Johnson,mother,,-1.046875,-17.625
+Dwayne Johnson,Rocky Johnson,father,,-0.7109375,-3.796875
+Emily Blunt,Joanne Blunt,mother,,-2.65625,-21.25
+Emily Blunt,Oliver Simon Peter Blunt,father,,-11.8125,-3.75
+Aubrey Plaza,Bernadette Plaza,mother,,-9.25,-10.8125
+Aubrey Plaza,David Plaza,father,,-3.1875,-33.75
+Mel Gibson,Hutton Gibson,mother,Mel Gibson,-8.25,-4.03125
+Mel Gibson,H. William Gibson,father,,-25.875,-12.25
+Maya Hawke,Uma Thurman,mother,Maya Hawke,-0.05078125,-10.625
+Maya Hawke,Ethan Hawke,father,Maya Hawke,-13.125,-12.6875
+Jason Sudeikis,Kathleen Sudeikis,mother,Jason Sudeikis,-10.0,-1.859375
+Jason Sudeikis,Daniel Joseph Sudeikis,father,,-12.25,-4.6875
+Betty Gilpin,Barbara Gilpin,mother,,-31.875,-40.75
+Betty Gilpin,Jack Gilpin,father,,-31.25,-32.25
+Karen Gillan,Marie Gillan,mother,,-15.6875,-33.5
+Charlize Theron,Gerda Theron,mother,,-6.84375,-35.5
+Charlize Theron,Charles Theron,father,,-1.6796875,-18.125
+Cassidy Freeman,Kent Freeman,father,,-22.375,-40.0
+Denzel Washington,Lennis Washington,mother,,-1.484375,-25.125
+Denzel Washington,Denzel Washington Sr.,father,Denzel Washington Jr.,-5.3125,-33.5
+Bill Skarsgård,My Skarsgård,mother,Bill Skarsgård,-14.25,-3.046875
+Bill Skarsgård,Stellan Skarsgård,father,Bill Skarsgård,-0.98046875,-2.421875
+Amy Brenneman,Nancy Brenneman,mother,,-14.0,-34.0
+Amy Brenneman,Russell Brenneman,father,,-12.125,-37.75
+Abby Elliott,Kristen Elliott,mother,,-22.25,-37.75
+Abby Elliott,Chris Elliott,father,,-26.125,-25.0
+Chris Pine,Anne Gwynne.,mother,Chris Pine,-21.5,-54.75
+Chris Pine,Robert Pine,father,Chris Pine,-9.4375,-28.25
+Kristen Stewart,Jules Mann-Stewart,mother,Kristen Stewart,-3.859375,-22.0
+Kristen Stewart,John Stewart,father,,-10.5625,-22.375
+Kathryn Newton,Robin Newton,mother,,-13.1875,-39.75
+Russell Crowe,Jocelyn Crowe,mother,,-5.65625,-33.75
+Russell Crowe,John Alexander Crowe,father,,-4.9375,-31.375
+The Weeknd,Samra Tesfaye,mother,,-20.25,-31.125
+The Weeknd,"Abel Tesfaye, Sr.",father,,-17.5,-1.7109375
+George Clooney,Nina Bruce Warren,mother,,-1.4609375,-42.75
+George Clooney,Nick Clooney,father,George Clooney,-1.1328125,-15.3125
+Elizabeth Banks,Ann Wallace,mother,,-19.625,-33.25
+Jeremy Strong,Anna Strong,mother,,-25.875,-33.25
+Ariel Winter,Chrisoula Workman,mother,,-2.015625,-21.0
+Ariel Winter,Glenn Winter,father,,-15.625,-49.0
+Martin Scorsese,Catherine Scorsese,mother,Martin Scorsese,-7.78125,-18.75
+Martin Scorsese,Charles Scorsese,father,Martin Scorsese,-2.046875,-16.75
+Samara Weaving,Lesley Weaving,mother,,-21.0,-28.875
+Samara Weaving,Simon Weaving,father,,-9.0625,-33.75
+Brendan Fraser,Carol Fraser,mother,,-5.0625,-5.0625
+Brendan Fraser,George Fraser,father,,-3.546875,-13.6875
+Portia Doubleday,Christopher Doubleday,father,,-19.125,-35.5
+Emma Stone,Krista Stone,mother,,-4.65625,-39.75
+Emma Stone,Jeff Stone,father,,-6.84375,-43.0
+Ethan Peck,Stephen Peck,father,,-15.5,-34.25
+Millie Bobby Brown,Kelly Brown,mother,,-3.609375,-33.0
+Millie Bobby Brown,Robert Brown,father,,-0.435546875,-32.75
+Matt Damon,Nancy Carlsson-Paige,mother,,-1.671875,-9.1875
+Matt Damon,Kent Damon,father,Matt Damon,-1.0703125,-30.75
+Shailene Woodley,Louise Woodley,mother,,-14.6875,-38.5
+Shailene Woodley,Lonnie Woodley,father,,-1.5546875,-13.1875
+Mackenyu,Ken Takakura,father,,-25.75,-35.25
+Jennifer Garner,Patricia Ann Garner,mother,,-4.3125,-7.03125
+Jennifer Garner,William John Garner,father,,-1.5078125,-21.875
+Kiernan Shipka,Erin Shipka,mother,,-1.7109375,-14.5625
+Kiernan Shipka,Ernie Shipka,father,,-10.625,-15.1875
+Riley Keough,Lisa Marie Presley,mother,Riley Keough,-0.126953125,-2.265625
+Riley Keough,Danny Keough,father,Riley Keough,-4.03125,-19.75
+Eiza González,Gloria González.,mother,,-20.75,-50.5
+Eiza González,Carlos González.,father,,-16.25,-52.75
+Ryan Hurst,Candace Hurst,mother,,-17.75,-40.75
+Christopher Reeve,Barbara Reeve,mother,,-8.1875,-28.25
+Christopher Reeve,Franklin Reeve,father,,-5.90625,-31.125
+Angourie Rice,Kate Rice,mother,,-11.6875,-49.75
+Angourie Rice,Jeremy Rice,father,,-17.25,-39.75
+Shia LaBeouf,Jeffrey LaBeouf,father,,-0.41796875,-8.8125
+Megan Fox,Gloria Darlene Cisson,mother,,-6.5625,-14.25
+Megan Fox,Franklin Thomas Fox,father,Megan Fox,-9.0,-40.0
+Meryl Streep,Mary Wolf Wilkinson,mother,,-8.875,-14.1875
+Meryl Streep,Harry William Streep Jr.,father,Meryl Streep,-3.984375,-3.40625
+Selma Blair,Elizabeth Blair.,mother,,-17.125,-49.0
+Selma Blair,Charles Blair,father,,-23.75,-36.25
+Mark Wahlberg,Alma Wahlberg,mother,Mark Wahlberg,-4.4375,-19.5
+Mark Wahlberg,Donald Wahlberg Sr.,father,Mark Wahlberg,-11.3125,-43.25
+Rosamund Pike,Juliet Pike,mother,,-18.75,-31.875
+Rosamund Pike,Julian Pike,father,,-13.8125,-40.0
+Morena Baccarin,Verônica Baccarin,mother,,-20.625,-13.4375
+Morena Baccarin,Fernando Baccarin.,father,,-5.21875,-46.75
+Natalie Portman,Shelley Stevens,mother,,-4.71875,-34.0
+Natalie Portman,Avner Hershlag,father,Natalie Portman,-3.65625,-2.625
+Cate Blanchett,June Blanchett,mother,,-6.53125,-26.75
+Cate Blanchett,Robert Blanchett Jr.,father,,-19.375,-28.75
+Patricia Arquette,Brenda Denaut.,mother,,-5.6875,-33.25
+Patricia Arquette,Lewis Arquette,father,Patricia Arquette,-2.421875,-9.25
+Emma Roberts,Kelly Cunningham,mother,,-10.1875,-23.625
+Emma Roberts,Eric Roberts,father,Emma Roberts,-12.9375,-16.625
+Elsa Pataky,José Francisco Lafuente.,father,,-13.0625,-29.375
+Lily James,Ninette Mantle,mother,,-8.9375,-16.875
+Lily James,James Thomson.,father,,-22.75,-41.5
+Bruce Willis,Marlene Willis,mother,,-6.25,-13.875
+Bruce Willis,David Willis,father,,-1.90625,-28.75
+Danna Paola,Patricia Manterola,mother,,-17.75,-17.375
+Melissa McCarthy,Sandra McCarthy,mother,,-4.21875,-9.8125
+Melissa McCarthy,Michael McCarthy,father,,-3.734375,-17.25
+Chris Evans,Lisa Evans,mother,,-7.28125,-48.0
+Chris Evans,G. Robert Evans III,father,,-14.75,-27.0
+Rachel McAdams,Sandra McAdams,mother,,-9.9375,-6.8125
+Sofia Coppola,Eleanor Coppola,mother,,-0.1923828125,-2.671875
+Sofia Coppola,Francis Ford Coppola,father,Sofia Coppola,-1.40625,-1.5390625
+Anne Hathaway,Kate McCauley Hathaway,mother,Anne Hathaway,-0.703125,-6.25
+Anne Hathaway,Gerald Hathaway,father,,-3.671875,-12.0625
+Al Pacino,Rose Gerardi.,mother,,-9.0625,-46.5
+Al Pacino,Salvatore Pacino,father,Al Pacino.,-5.09375,-20.25
+Minka Kelly,Maureen Kelly,mother,,-9.8125,-27.25
+Minka Kelly,Rick Kelly,father,,-5.0625,-39.0
+Michelle Pfeiffer,Donna Pfeiffer,mother,,-8.625,-9.875
+Michelle Pfeiffer,Richard Pfeiffer,father,,-6.875,-9.5
+Jim Caviezel,Margaret Caviezel,mother,,-8.0625,-21.875
+Jim Caviezel,James Caviezel Sr.,father,Jim Caviezel,-8.375,-11.375
+Tracy Pollan,Evelyn Pollan,mother,,-13.5,-4.1875
+Bradley Cooper,Gloria Campano,mother,,-3.265625,-31.0
+Bradley Cooper,Charles Cooper,father,,-1.3203125,-28.5
+Jensen Ackles,Donna Ackles,mother,,-5.28125,-4.4375
+Jensen Ackles,Alan Ackles,father,,-5.875,-15.375
+Amber Heard,Paige Parsons.,mother,,-11.4375,-24.875
+Amber Heard,David Heard,father,Amber Heard,-3.21875,-25.5
+Rashida Jones,Peggy Lipton,mother,,-3.171875,-0.326171875
+Rashida Jones,Quincy Jones,father,,-0.255859375,-3.484375
+Alicia Vikander,Maria Fahl Vikander,mother,,-11.9375,-6.125
+Alicia Vikander,Svante Vikander,father,,-5.46875,-6.09375
+Sandra Bullock,Helga Meyer,mother,,-1.0546875,-27.5
+Sandra Bullock,John W. Bullock,father,,-4.15625,-16.875

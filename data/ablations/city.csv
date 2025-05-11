@@ -1,0 +1,453 @@
+region,city,region_prediction,can_reverse
+Liguria,Genoa,Liguria,True
+Wyoming,Cheyenne,Wyoming,True
+Saskatchewan,Saskatoon,Saskatchewan,True
+Murmansk Oblast,Murmansk,Murmansk,True
+Amur Oblast,Blagoveshchensk,Amur Oblast,True
+Yamagata,Yamagata,Yamagata,True
+Inner Mongolia,Hohhot,Inner Mongolia,True
+Kansas,Wichita,Kansas,True
+Trabzon,Trabzon,Trabzon,True
+Dagestan,Makhachkala,Dagestan,True
+Magadan Oblast,Magadan,Magadan,True
+Komi Republic,Syktyvkar,,False
+Wales,Cardiff,Wales,True
+Kabardino-Balkar Republic,Nalchik,Kabardino-Balkar Republic,True
+Kentucky,Louisville,Kentucky,True
+Uttar Pradesh,Lucknow,Uttar Pradesh,True
+Altai Krai,Barnaul,Altai Krai,True
+Karelia,Petrozavodsk,,False
+Texas,Houston,Texas,True
+Nara,Nara,Nara,True
+South Carolina,Columbia,South Carolina,True
+Tatarstan,Kazan,Tatarstan,True
+Hokkaido,Sapporo,Hokkaido,True
+Occitanie,Toulouse,Occitanie,True
+Heilongjiang,Harbin,,False
+Rhineland-Palatinate,Mainz,Rhineland-Palatinate,True
+Karnataka,Bangalore,Karnataka,True
+Pará,Belém,Pará,True
+Rondônia,Porto Velho,Rondônia,True
+Guernsey,Saint Peter Port,,False
+Bihar,Patna,Bihar,True
+Maharashtra,Mumbai,Maharashtra,True
+Utah,Salt Lake City,Utah,True
+Baja California,Tijuana,Baja California,True
+Baden-Württemberg,Stuttgart,Baden-Württemberg,True
+Ontario,Toronto,Ontario,True
+Qinghai,Xining,Qinghai,True
+Paraíba,João Pessoa,Paraíba,True
+Bremen,Bremen,Bremen,True
+Western Australia,Perth,Western Australia,True
+Dadra and Nagar Haveli and Daman and Diu,Daman,,False
+Pennsylvania,Philadelphia,Pennsylvania,True
+Şanlıurfa,Şanlıurfa,Şanlıurfa,True
+Kurgan Oblast,Kurgan,Kurgan,True
+New Jersey,Newark,New Jersey,True
+Bashkortostan,Ufa,Bashkortostan,True
+Queensland,Brisbane,Queensland,True
+Eastern Cape,Port Elizabeth,,False
+Khakassia,Abakan,Khakassia,True
+Maranhão,São Luís,Maranhão,True
+Saratov Oblast,Saratov,Saratov,True
+Mari El,Yoshkar-Ola,Mari El Republic,True
+Kütahya,Kütahya,Kütahya,True
+Vermont,Burlington,,False
+Manipur,Imphal,Manipur,True
+Minnesota,Minneapolis,Minnesota,True
+Ulyanovsk Oblast,Ulyanovsk,Ulyanovsk,True
+New York,New York City,New York,True
+Tripura,Agartala,Tripura,True
+Irkutsk Oblast,Irkutsk,Irkutsk,True
+New Hampshire,Manchester,,False
+Mato Grosso,Cuiabá,Mato Grosso,True
+Khakassia,Abakan,Khakassia,True
+Mecklenburg-Vorpommern,Rostock,,False
+Vologda Oblast,Vologda,Vologda,True
+West Virginia,Charleston,West Virginia,True
+Nova Scotia,Halifax,Nova Scotia,True
+Rio Grande do Norte,Natal,,False
+Nayarit,Tepic,Nayarit,True
+Querétaro,Querétaro,Querétaro,True
+Dagestan,Makhachkala,Dagestan,True
+Kochi,Kochi,Kochi,True
+Aomori,Aomori,Aomori,True
+Michigan,Detroit,Michigan,True
+Odisha,Bhubaneswar,Odisha,True
+Mayotte,Mamoudzou,Mayotte,True
+Andaman and Nicobar Islands,Port Blair,,False
+Orenburg Oblast,Orenburg,Orenburg,True
+Valencian Community,Valencia,Valencia,True
+Tibet,Lhasa,Tibet,True
+Ryazan Oblast,Ryazan,Ryazan,True
+Washington,Seattle,Washington,True
+Manisa,Manisa,Manisa,True
+Kemerovo Oblast,Kemerovo,Kemerovo,True
+Chiba,Chiba,Chiba,True
+Oregon,Portland,Oregon,True
+Normandie,Rouen,,False
+Mizoram,Aizawl,Mizoram,True
+Idaho,Boise,Idaho,True
+Van,Van,Van,True
+Muğla,Muğla,Muğla,True
+Mpumalanga,Nelspruit,,False
+Jammu and Kashmir,Srinagar,,False
+South Dakota,Sioux Falls,South Dakota,True
+Aichi,Nagoya,Aichi,True
+Northern Ireland,Belfast,Northern Ireland,True
+Saint Pierre and Miquelon,Saint-Pierre,,False
+Ohio,Columbus,Ohio,True
+Veracruz,Veracruz,Veracruz,True
+Lipetsk Oblast,Lipetsk,Lipetsk,True
+Novosibirsk Oblast,Novosibirsk,Novosibirsk,True
+Sichuan,Chengdu,Sichuan,True
+Canary Islands,Las Palmas,,False
+Kırıkkale,Kırıkkale,Kırıkkale,True
+Kagoshima,Kagoshima,Kagoshima,True
+Federal District,Moscow,,False
+Shandong,Jinan,Shandong,True
+Lombardy,Milan,Lombardy,True
+Hong Kong,Hong Kong,Hong Kong,True
+Corse,Ajaccio,,False
+Murcia,Murcia,Murcia,True
+Ingushetia,Magas,,False
+Astrakhan Oblast,Astrakhan,Astrakhan,True
+Gifu,Gifu,Gifu,True
+Alabama,Birmingham,,False
+Haryana,Faridabad,Haryana,True
+Gujarat,Ahmedabad,Gujarat,True
+Kocaeli,Izmit,Kocaeli,True
+Sardinia,Cagliari,Sardinia,True
+Baja California Sur,La Paz,,False
+Perm Krai,Perm,Perm,True
+Jalisco,Guadalajara,Jalisco,True
+Kumamoto,Kumamoto,Kumamoto,True
+Rio Grande do Sul,Porto Alegre,,False
+Victoria,Melbourne,Victoria,True
+Mexico State,Toluca,,False
+Omsk Oblast,Omsk,Omsk,True
+Nuevo León,Monterrey,Nuevo León,True
+Guizhou,Guiyang,Guizhou,True
+Hidalgo,Pachuca,Hidalgo,True
+Konya,Konya,Konya,True
+Puducherry,Puducherry,Puducherry,True
+Nagasaki,Nagasaki,Nagasaki,True
+Udmurt Republic,Izhevsk,,False
+Emilia-Romagna,Bologna,Emilia-Romagna,True
+Moscow Oblast,Moscow,Moscow,True
+Calabria,Reggio Calabria,Calabria,True
+Prince Edward Island,Charlottetown,,False
+Kanagawa,Yokohama,Kanagawa,True
+Osmaniye,Osmaniye,Osmaniye,True
+Ağrı,Ağrı,Ağrı,True
+Umbria,Perugia,Umbria,True
+Manitoba,Winnipeg,Manitoba,True
+Akita,Akita,Akita,True
+Jersey,Saint Helier,,False
+New Brunswick,Saint John,New Brunswick,True
+Tottori,Tottori,Tottori,True
+Kostroma Oblast,Kostroma,Kostroma,True
+Shaanxi,Xi'an,Shaanxi,True
+Veneto,Venice,Veneto,True
+Tuscany,Florence,Tuscany,True
+Lower Saxony,Hannover,Lower Saxony,True
+Çanakkale,Çanakkale,Çanakkale,True
+Iowa,Des Moines,Iowa,True
+Niğde,Niğde,Niğde,True
+Colima,Colima,Colima,True
+Sverdlovsk Oblast,Yekaterinburg,Sverdlovsk Oblast,True
+Montana,Billings,Montana,True
+Guangdong,Guangzhou,Guangdong,True
+Maine,Portland,,False
+Tyva,Kyzyl,Tyva,True
+Gansu,Lanzhou,,False
+Quebec,Montreal,Quebec,True
+Punjab,Lahore,Punjab,True
+Himachal Pradesh,Shimla,,False
+Iğdır,Iğdır,Iğdır,True
+Smolensk Oblast,Smolensk,Smolensk,True
+Sinaloa,Culiacán,Sinaloa,True
+Kaluga Oblast,Kaluga,Kaluga,True
+Karelia,Petrozavodsk,,False
+New Mexico,Albuquerque,New Mexico,True
+Arkhangelsk Oblast,Arkhangelsk,Arkhangelsk,True
+Massachusetts,Boston,Massachusetts,True
+Nagaland,Kohima,Nagaland,True
+Mordovia,Saransk,,False
+Tabasco,Villahermosa,Tabasco,True
+Jewish Autonomous Oblast,Birobidzhan,Jewish Autonomous Oblast,True
+Beheira,Damanhur,Beheira,True
+Auvergne-Rhône-Alpes,Lyon,Auvergne-Rhône-Alpes,True
+Northern Cape,Kimberley,Northern Cape,True
+Mexico City,Mexico City,Mexico City,True
+Rhode Island,Providence,Rhode Island,True
+Zhejiang,Hangzhou,Zhejiang,True
+Hatay,Antakya,,False
+Nizhny Novgorod Oblast,Nizhny Novgorod,Nizhny Novgorod,True
+Samara Oblast,Samara,Samara,True
+Bavaria,Munich,Bavaria,True
+Bryansk Oblast,Bryansk,Bryansk,True
+Acre,Rio Branco,Acre,True
+Elazığ,Elazığ,Elazığ,True
+Nevada,Las Vegas,Nevada,True
+Osaka,Osaka,Osaka,True
+Hauts-de-France,Lille,Hauts-de-France,True
+Niigata,Niigata,Niigata,True
+Shiga,Otsu,Shiga,True
+Goiás,Goiânia,Goiás,True
+Arkansas,Little Rock,Arkansas,True
+Hyogo,Kobe,Hyogo,True
+Liaoning,Shenyang,Liaoning,True
+West Bengal,Kolkata,West Bengal,True
+Jiangsu,Nanjing,Jiangsu,True
+Miyazaki,Miyazaki,Miyazaki,True
+Adıyaman,Adıyaman,Adıyaman,True
+Basque Country,Bilbao,,False
+Sikkim,Gangtok,,False
+Extremadura,Badajoz,Extremadura,True
+Cantabria,Santander,Cantabria,True
+Aosta Valley,Aosta,Aosta,True
+Abruzzo,Pescara,Abruzzo,True
+Kaliningrad Oblast,Kaliningrad,Kaliningrad,True
+Sverdlovsk Oblast,Yekaterinburg,Sverdlovsk Oblast,True
+Tamil Nadu,Chennai,Tamil Nadu,True
+KwaZulu-Natal,Durban,KwaZulu-Natal,True
+Adygea,Maykop,,False
+Arizona,Phoenix,Arizona,True
+Sakha Republic,Yakutsk,Sakha Republic,True
+Puebla,Puebla,Puebla,True
+Aragon,Zaragoza,Aragon,True
+Ehime,Matsuyama,Ehime,True
+Shizuoka,Shizuoka,Shizuoka,True
+Ordu,Ordu,Ordu,True
+Burdur,Burdur,Burdur,True
+Diyarbakır,Diyarbakır,Diyarbakır,True
+Madhya Pradesh,Indore,Madhya Pradesh,True
+Limpopo,Polokwane,,False
+Kastamonu,Kastamonu,Kastamonu,True
+Mardin,Mardin,Mardin,True
+Volgograd Oblast,Volgograd,Volgograd,True
+Guanajuato,León,,False
+Paraná,Curitiba,Paraná,True
+Tasmania,Hobart,Tasmania,True
+Bingöl,Bingöl,Bingöl,True
+New Caledonia,Nouméa,,False
+Bretagne,Rennes,,False
+Friuli Venezia Giulia,Trieste,,False
+Chuvash Republic,Cheboksary,Chuvash Republic,True
+Asyut,Asyut,Asyut,True
+Northwest Territories,Yellowknife,Northwest Territories,True
+Arunachal Pradesh,Itanagar,Arunachal Pradesh,True
+Alberta,Calgary,Alberta,True
+Hiroshima,Hiroshima,Hiroshima,True
+Missouri,Kansas City,Missouri,True
+Buryatia,Ulan-Ude,,False
+Trentino-Alto Adige/Südtirol,Bolzano,Trentino-Alto Adige/Südtirol,True
+Moscow,Moscow,Moscow,True
+Saitama,Saitama,Saitama,True
+Jilin,Changchun,Jilin,True
+Sergipe,Aracaju,Sergipe,True
+Pays de la Loire,Nantes,,False
+Belgorod Oblast,Belgorod,Belgorod,True
+Tochigi,Utsunomiya,Tochigi,True
+Tokushima,Tokushima,Tokushima,True
+Nebraska,Omaha,Nebraska,True
+Bourgogne-Franche-Comté,Dijon,Bourgogne-Franche-Comté,True
+Vladimir Oblast,Vladimir,Vladimir,True
+Castile-La Mancha,Toledo,Castile-La Mancha,True
+French Guiana,Cayenne,French Guiana,True
+Yamal-Nenets Autonomous Okrug,Salekhard,,False
+Balearic Islands,Palma,Balearic Islands,True
+Krasnodar Krai,Krasnodar,Krasnodar,True
+Buryatia,Ulan-Ude,,False
+Fukui,Fukui,Fukui,True
+Wisconsin,Milwaukee,Wisconsin,True
+Tula Oblast,Tula,Tula,True
+Ceará,Fortaleza,Ceará,True
+Mississippi,Jackson,Mississippi,True
+Indiana,Indianapolis,Indiana,True
+Hebei,Shijiazhuang,Hebei,True
+Amazonas,Manaus,Amazonas,True
+Tianjin,Tianjin,Tianjin,True
+Henan,Zhengzhou,Henan,True
+Anhui,Hefei,Anhui,True
+Espírito Santo,Vitória,Espírito Santo,True
+Chhattisgarh,Raipur,Chhattisgarh,True
+Provence-Alpes-Côte d'Azur,Marseille,,False
+Roraima,Boa Vista,Roraima,True
+Hainan,Haikou,Hainan,True
+Bashkortostan,Ufa,Bashkortostan,True
+Tennessee,Nashville,Tennessee,True
+Fukuoka,Fukuoka,Fukuoka,True
+Andalusia,Seville,Andalusia,True
+Florida,Jacksonville,Florida,True
+Quintana Roo,Cancún,Quintana Roo,True
+Yaroslavl Oblast,Yaroslavl,Yaroslavl,True
+Bahia,Salvador,Bahia,True
+Kerala,Thiruvananthapuram,Kerala,True
+Ingushetia,Magas,,False
+Mordovia,Saransk,,False
+Chukotka Autonomous Okrug,Anadyr,Chukotka Autonomous Okrug,True
+Nevşehir,Nevşehir,Nevşehir,True
+Piauí,Teresina,Piauí,True
+Telangana,Hyderabad,Telangana,True
+Krasnoyarsk Krai,Krasnoyarsk,Krasnoyarsk,True
+Beijing,Beijing,Beijing,True
+Kırklareli,Kırklareli,Kırklareli,True
+Santa Catarina,Joinville,Santa Catarina,True
+Thuringia,Erfurt,Thuringia,True
+Gauteng,Johannesburg,Gauteng,True
+Tatarstan,Kazan,Tatarstan,True
+California,Los Angeles,California,True
+Goa,Panaji,Goa,True
+Hamburg,Hamburg,Hamburg,True
+Oryol Oblast,Oryol,Oryol,True
+Jiangxi,Nanchang,Jiangxi,True
+Altai Republic,Gorno-Altaysk,Gorno-Altai Republic,True
+Western Cape,Cape Town,Western Cape,True
+Kalmykia,Elista,Kalmykia,True
+Pernambuco,Recife,Pernambuco,True
+Sivas,Sivas,Sivas,True
+Kahramanmaraş,Kahramanmaraş,Kahramanmaraş,True
+Antalya,Antalya,Antalya,True
+Tamaulipas,Ciudad Victoria,Tamaulipas,True
+Chelyabinsk Oblast,Chelyabinsk,Chelyabinsk,True
+Yucatán,Mérida,Yucatán,True
+İzmir,İzmir,İzmir,True
+Tocantins,Palmas,Tocantins,True
+Alaska,Anchorage,Alaska,True
+Fujian,Fuzhou,Fujian,True
+Giresun,Giresun,Giresun,True
+Coahuila,Saltillo,Coahuila,True
+Jharkhand,Ranchi,Jharkhand,True
+Michoacán,Morelia,Michoacán,True
+Mari El,Yoshkar-Ola,Mari El Republic,True
+Chongqing,Chongqing,Chongqing,True
+Centre-Val de Loire,Tours,,False
+Minas Gerais,Belo Horizonte,Minas Gerais,True
+British Columbia,Vancouver,British Columbia,True
+Durango,Durango,Durango,True
+Tyumen Oblast,Tyumen,Tyumen,True
+Kayseri,Kayseri,Kayseri,True
+Saarland,Saarbrücken,Saarland,True
+Connecticut,Bridgeport,Connecticut,True
+Saxony,Dresden,Saxony,True
+Shanxi,Taiyuan,Shanxi,True
+Guadeloupe,Basse-Terre,,False
+Gunma,Maebashi,Gunma,True
+Andhra Pradesh,Visakhapatnam,Andhra Pradesh,True
+Newfoundland and Labrador,St. John's,,False
+Grand Est,Strasbourg,Grand Est,True
+Karachay-Cherkess Republic,Cherkessk,Karachay-Cherkess Republic,True
+Nouvelle-Aquitaine,Bordeaux,Nouvelle-Aquitaine,True
+Catalonia,Barcelona,Catalonia,True
+Scotland,Glasgow,Scotland,True
+Kagawa,Takamatsu,Kagawa,True
+Oita,Oita,Oita,True
+Piedmont,Turin,Piedmont,True
+San Luis Potosí,San Luis Potosí,San Luis Potosí,True
+Kamchatka Krai,Petropavlovsk-Kamchatsky,Kamchatka Krai,True
+Taiwan,Taipei,,False
+Free State,Bloemfontein,Free State,True
+Aguascalientes,Aguascalientes,Aguascalientes,True
+Kursk Oblast,Kursk,Kursk,True
+Oklahoma,Oklahoma City,Oklahoma,True
+Chandigarh,Chandigarh,Chandigarh,True
+Morelos,Cuernavaca,,False
+Sonora,Hermosillo,Sonora,True
+Balıkesir,Balıkesir,Balıkesir,True
+Alagoas,Maceió,Alagoas,True
+La Rioja,Logroño,La Rioja,True
+Siirt,Siirt,Siirt,True
+Kirov Oblast,Kirov,Kirov,True
+Melilla,Melilla,Melilla,True
+Maryland,Baltimore,Maryland,True
+Samsun,Samsun,Samsun,True
+Hesse,Frankfurt,Hesse,True
+Bursa,Bursa,Bursa,True
+Tver Oblast,Tver,Tver,True
+Guangxi,Nanning,Guangxi,True
+Ceuta,Ceuta,Ceuta,True
+Pskov Oblast,Pskov,Pskov,True
+England,London,,False
+Aydın,Aydın,Aydın,True
+Nagano,Nagano,Nagano,True
+Rostov Oblast,Rostov-on-Don,Rostov Oblast,True
+Illinois,Chicago,Illinois,True
+Zonguldak,Zonguldak,Zonguldak,True
+Toyama,Toyama,Toyama,True
+Sakhalin Oblast,Yuzhno-Sakhalinsk,Sakhalin Oblast,True
+Ningxia,Yinchuan,Ningxia,True
+Gaziantep,Gaziantep,Gaziantep,True
+São Paulo,São Paulo,São Paulo,True
+Galicia,A Coruña,Galicia,True
+Mie,Yokkaichi,Mie,True
+Réunion,Saint-Denis,,False
+Georgia,Atlanta,Georgia,True
+Uttarakhand,Dehradun,Uttarakhand,True
+Novgorod Oblast,Veliky Novgorod,,False
+Tomsk Oblast,Tomsk,Tomsk,True
+Delhi,New Delhi,Delhi,True
+Yunnan,Kunming,Yunnan,True
+Brandenburg,Potsdam,Brandenburg,True
+New South Wales,Sydney,New South Wales,True
+Guerrero,Acapulco,Guerrero,True
+Mersin,Mersin,Mersin,True
+Malatya,Malatya,Malatya,True
+Campania,Naples,Campania,True
+Colorado,Denver,Colorado,True
+Beni Suef,Beni Suef,Beni Suef,True
+Mato Grosso do Sul,Campo Grande,,False
+Stavropol Krai,Stavropol,Stavropol,True
+Lazio,Rome,Lazio,True
+Assam,Guwahati,Assam,True
+Berlin,Berlin,Berlin,True
+Primorsky Krai,Vladivostok,Primorsky Krai,True
+Hubei,Wuhan,Hubei,True
+Rajasthan,Jaipur,Rajasthan,True
+Khabarovsk Krai,Khabarovsk,Khabarovsk,True
+Schleswig-Holstein,Kiel,Schleswig-Holstein,True
+Northern Territory,Darwin,Northern Territory,True
+Marche,Ancona,Marche,True
+Chiapas,Tuxtla Gutiérrez,Chiapas,True
+French Polynesia,Papeete,,False
+Shanghai,Shanghai,Shanghai,True
+Voronezh Oblast,Voronezh,Voronezh,True
+Louisiana,New Orleans,Louisiana,True
+Altai Republic,Gorno-Altaysk,Gorno-Altai Republic,True
+Navarre,Pamplona,Navarre,True
+Ivanovo Oblast,Ivanovo,Ivanovo,True
+Meghalaya,Shillong,Meghalaya,True
+Virginia,Virginia Beach,Virginia,True
+Hunan,Changsha,Hunan,True
+Sicily,Palermo,Sicily,True
+North Carolina,Charlotte,North Carolina,True
+Xinjiang,Ürümqi,Xinjiang,True
+Martinique,Fort-de-France,Martinique,True
+Tekirdağ,Tekirdağ,Tekirdağ,True
+North Rhine-Westphalia,Cologne,North Rhine-Westphalia,True
+Australian Capital Territory,Canberra,Australian Capital Territory,True
+Saxony-Anhalt,Magdeburg,Saxony-Anhalt,True
+Rize,Rize,Rize,True
+Uşak,Uşak,Uşak,True
+Sakarya,Adapazarı,Sakarya,True
+Adygea,Maykop,,False
+Zacatecas,Zacatecas,Zacatecas,True
+Campeche,Campeche,Campeche,True
+Asturias,Oviedo,Asturias,True
+North Dakota,Fargo,North Dakota,True
+Leningrad Oblast,Saint Petersburg,Leningrad Oblast,True
+Karaman,Karaman,Karaman,True
+Hawaii,Honolulu,Hawaii,True
+Chihuahua,Chihuahua,Chihuahua,True
+Adana,Adana,Adana,True
+Wakayama,Wakayama,Wakayama City,True
+Apulia,Bari,Apulia,True
+Île-de-France,Paris,Île-de-France,True
+Shimane,Matsue,Shimane,True
+Madrid,Madrid,Madrid,True
+South Australia,Adelaide,South Australia,True
+Castile and León,Valladolid,,False
+Erzurum,Erzurum,Erzurum,True
+Miyagi,Sendai,Miyagi,True
+Delaware,Wilmington,Delaware,True
